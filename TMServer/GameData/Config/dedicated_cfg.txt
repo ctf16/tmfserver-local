@@ -17,21 +17,21 @@
 	</authorization_levels>
 	
  	<masterserver_account>
-		<login>oblivionserver</login>
-		<password>**********</password>
-		<validation_key>*****************</validation_key>
+		<login>********</login>
+		<password>********</password>
+		<validation_key>********</validation_key>
 		<path>C:/TMServer/GameData</path>
 		<downloadrate>100000</downloadrate>
 		<uploadrate>100000</uploadrate>
 	</masterserver_account>
 	
 	<server_options>
-		<name>Oblivion Server</name>
-		<comment>yo wsp</comment>
+		<name>********</name>
+		<comment>********</comment>
 		<hide_server>0</hide_server>					<!-- value is 0 (always shown), 1 (always hidden), 2 (hidden from nations) -->
 
 		<max_players>8</max_players>
-		<password>ctfparis</password>
+		<password>********</password>
 
 		<xmlrpc_port>5000</xmlrpc_port>
 		<xmlrpc_allowremote>False</xmlrpc_allowremote>
