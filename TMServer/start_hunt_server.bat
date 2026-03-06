@@ -6,7 +6,6 @@ REM ==============================================
 REM Paths (edit these if your install is different)
 set SERVER_PATH=C:\TMServer
 set XASECO_PATH=C:\TMServer\XASECO
-set PHP_PATH=C:\php\php.exe
 set GAMEDATA=C:\TMServer\GameData
 
 echo Starting TrackMania United Forever Dedicated Server...
