@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<cache version=4.0>
+	<packdesc>
+		<name>Skins\Vehicles\StadiumCar\X-Kalibre.zip</name>
+		<root>data</root>
+		<file>Cache\EE1610CADBCFD4BBAF053B92A1593393_Skins%5cVehicles%5cStadiumCar%5cX-Kalibre.zip</file>
+		<checksum>0xEE1610CADBCFD4BBAF053B92A1593393</checksum>
+		<size>3 071 632</size>
+		<lastuse>02/03/2026 21:17</lastuse>
+	</packdesc>
+</cache>

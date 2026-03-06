@@ -1,0 +1,2465 @@
+[XAseco] PHP Version is 5.3.29 on WINNT
+[XAseco] Load settings [config.xml]
+[XASECO Fatal Error] Could not read/parse config file config.xml ! on line 459 in file C:\TMServer\XASECO\aseco.php
+[XAseco] PHP Version is 5.3.29 on WINNT
+[XAseco] Load settings [config.xml]
+[XASECO Fatal Error] Could not read/parse config file config.xml ! on line 459 in file C:\TMServer\XASECO\aseco.php
+[XAseco] PHP Version is 5.3.29 on WINNT
+[XAseco] Load settings [config.xml]
+[XAseco] Load admin/ops lists [adminops.xml]
+[XASECO Warning] Could not read/parse adminops file adminops.xml !
+[XAseco] Load banned IPs list [bannedips.xml]
+[XASECO Warning] Could not read/parse banned IPs file bannedips.xml !
+[XAseco] Load plugins list [plugins.xml]
+[XASECO Fatal Error] Could not read/parse plugins list plugins.xml ! on line 685 in file C:\TMServer\XASECO\aseco.php
+[XAseco] PHP Version is 5.3.29 on WINNT
+[XAseco] Load settings [config.xml]
+[XAseco] Load admin/ops lists [adminops.xml]
+[XAseco] Load banned IPs list [bannedips.xml]
+[XAseco] Load plugins list [plugins.xml]
+[XAseco] Load plugin [plugin.localdatabase.php]
+[XAseco] Load plugin [plugin.rounds.php]
+[XAseco] Load plugin [chat.admin.php]
+[XAseco] Load plugin [chat.help.php]
+[XAseco] Load plugin [chat.records.php]
+[XAseco] Load plugin [chat.records2.php]
+[XAseco] Load plugin [chat.recrels.php]
+[XAseco] Load plugin [chat.dedimania.php]
+[XAseco] Load plugin [chat.players.php]
+[XAseco] Load plugin [chat.players2.php]
+[XAseco] Load plugin [chat.wins.php]
+[XAseco] Load plugin [chat.laston.php]
+[XAseco] Load plugin [chat.lastwin.php]
+[XAseco] Load plugin [chat.stats.php]
+[XAseco] Load plugin [chat.server.php]
+[XAseco] Load plugin [chat.songmod.php]
+[XAseco] Load plugin [chat.me.php]
+[XAseco] Load plugin [plugin.tmxinfo.php]
+[XAseco] Load plugin [plugin.track.php]
+[XAseco] Load plugin [plugin.checkpoints.php]
+[XAseco] Load plugin [plugin.dedimania.php]
+[XAseco] Load plugin [plugin.rasp.php]
+[XAseco] Load plugin [plugin.rasp_jukebox.php]
+[XAseco] Load plugin [plugin.rasp_chat.php]
+[XAseco] Load plugin [plugin.rasp_karma.php]
+[XAseco] Load plugin [plugin.rasp_nextmap.php]
+[XAseco] Load plugin [plugin.rasp_nextrank.php]
+[XAseco] Load plugin [plugin.rasp_votes.php]
+[XAseco] Load plugin [plugin.chatlog.php]
+[XAseco] Load plugin [plugin.style.php]
+[XAseco] Load plugin [plugin.panels.php]
+[XAseco] Load plugin [plugin.uptodate.php]
+[XAseco] Load plugin [jfreu.plugin.php]
+[XAseco] Load plugin [mistral.idlekick.php]
+[09/19,15:53:30] Try to connect to TM dedicated server on 127.0.0.1:5000 timeout 180s
+[09/19,15:53:30] Try to authenticate with login 'oblivionserver' and password 'ctfparis'
+[XASECO Warning] Invalid login 'oblivionserver' - must be 'SuperAdmin' in config.xml !
+[XASECO Fatal Error] Connection could not be established ! on line 714 in file C:\TMServer\XASECO\aseco.php
+[XAseco] PHP Version is 5.3.29 on WINNT
+[XAseco] Load settings [config.xml]
+[XAseco] Load admin/ops lists [adminops.xml]
+[XAseco] Load banned IPs list [bannedips.xml]
+[XAseco] Load plugins list [plugins.xml]
+[XAseco] Load plugin [plugin.localdatabase.php]
+[XAseco] Load plugin [plugin.rounds.php]
+[XAseco] Load plugin [chat.admin.php]
+[XAseco] Load plugin [chat.help.php]
+[XAseco] Load plugin [chat.records.php]
+[XAseco] Load plugin [chat.records2.php]
+[XAseco] Load plugin [chat.recrels.php]
+[XAseco] Load plugin [chat.dedimania.php]
+[XAseco] Load plugin [chat.players.php]
+[XAseco] Load plugin [chat.players2.php]
+[XAseco] Load plugin [chat.wins.php]
+[XAseco] Load plugin [chat.laston.php]
+[XAseco] Load plugin [chat.lastwin.php]
+[XAseco] Load plugin [chat.stats.php]
+[XAseco] Load plugin [chat.server.php]
+[XAseco] Load plugin [chat.songmod.php]
+[XAseco] Load plugin [chat.me.php]
+[XAseco] Load plugin [plugin.tmxinfo.php]
+[XAseco] Load plugin [plugin.track.php]
+[XAseco] Load plugin [plugin.checkpoints.php]
+[XAseco] Load plugin [plugin.dedimania.php]
+[XAseco] Load plugin [plugin.rasp.php]
+[XAseco] Load plugin [plugin.rasp_jukebox.php]
+[XAseco] Load plugin [plugin.rasp_chat.php]
+[XAseco] Load plugin [plugin.rasp_karma.php]
+[XAseco] Load plugin [plugin.rasp_nextmap.php]
+[XAseco] Load plugin [plugin.rasp_nextrank.php]
+[XAseco] Load plugin [plugin.rasp_votes.php]
+[XAseco] Load plugin [plugin.chatlog.php]
+[XAseco] Load plugin [plugin.style.php]
+[XAseco] Load plugin [plugin.panels.php]
+[XAseco] Load plugin [plugin.uptodate.php]
+[XAseco] Load plugin [jfreu.plugin.php]
+[XAseco] Load plugin [mistral.idlekick.php]
+[09/19,15:57:23] Try to connect to TM dedicated server on 127.0.0.1:5000 timeout 180s
+[09/19,15:57:23] Try to authenticate with login 'SuperAdmin' and password 'Calvin0216'
+[XASECO Warning] [-1000] Authenticate - Password incorrect.
+[XASECO Fatal Error] Connection could not be established ! on line 714 in file C:\TMServer\XASECO\aseco.php
+[XAseco] PHP Version is 5.3.29 on WINNT
+[XAseco] Load settings [config.xml]
+[XAseco] Load admin/ops lists [adminops.xml]
+[XAseco] Load banned IPs list [bannedips.xml]
+[XAseco] Load plugins list [plugins.xml]
+[XAseco] Load plugin [plugin.localdatabase.php]
+[XAseco] Load plugin [plugin.rounds.php]
+[XAseco] Load plugin [chat.admin.php]
+[XAseco] Load plugin [chat.help.php]
+[XAseco] Load plugin [chat.records.php]
+[XAseco] Load plugin [chat.records2.php]
+[XAseco] Load plugin [chat.recrels.php]
+[XAseco] Load plugin [chat.dedimania.php]
+[XAseco] Load plugin [chat.players.php]
+[XAseco] Load plugin [chat.players2.php]
+[XAseco] Load plugin [chat.wins.php]
+[XAseco] Load plugin [chat.laston.php]
+[XAseco] Load plugin [chat.lastwin.php]
+[XAseco] Load plugin [chat.stats.php]
+[XAseco] Load plugin [chat.server.php]
+[XAseco] Load plugin [chat.songmod.php]
+[XAseco] Load plugin [chat.me.php]
+[XAseco] Load plugin [plugin.tmxinfo.php]
+[XAseco] Load plugin [plugin.track.php]
+[XAseco] Load plugin [plugin.checkpoints.php]
+[XAseco] Load plugin [plugin.dedimania.php]
+[XAseco] Load plugin [plugin.rasp.php]
+[XAseco] Load plugin [plugin.rasp_jukebox.php]
+[XAseco] Load plugin [plugin.rasp_chat.php]
+[XAseco] Load plugin [plugin.rasp_karma.php]
+[XAseco] Load plugin [plugin.rasp_nextmap.php]
+[XAseco] Load plugin [plugin.rasp_nextrank.php]
+[XAseco] Load plugin [plugin.rasp_votes.php]
+[XAseco] Load plugin [plugin.chatlog.php]
+[XAseco] Load plugin [plugin.style.php]
+[XAseco] Load plugin [plugin.panels.php]
+[XAseco] Load plugin [plugin.uptodate.php]
+[XAseco] Load plugin [jfreu.plugin.php]
+[XAseco] Load plugin [mistral.idlekick.php]
+[09/19,15:58:21] Try to connect to TM dedicated server on 127.0.0.1:5000 timeout 180s
+[09/19,15:58:21] Try to authenticate with login 'SuperAdmin' and password 'Calvin0216'
+[XASECO Warning] [-1000] Authenticate - Password incorrect.
+[XASECO Fatal Error] Connection could not be established ! on line 714 in file C:\TMServer\XASECO\aseco.php
+[XAseco] PHP Version is 5.3.29 on WINNT
+[XAseco] Load settings [config.xml]
+[XAseco] Load admin/ops lists [adminops.xml]
+[XAseco] Load banned IPs list [bannedips.xml]
+[XAseco] Load plugins list [plugins.xml]
+[XAseco] Load plugin [plugin.localdatabase.php]
+[XAseco] Load plugin [plugin.rounds.php]
+[XAseco] Load plugin [chat.admin.php]
+[XAseco] Load plugin [chat.help.php]
+[XAseco] Load plugin [chat.records.php]
+[XAseco] Load plugin [chat.records2.php]
+[XAseco] Load plugin [chat.recrels.php]
+[XAseco] Load plugin [chat.dedimania.php]
+[XAseco] Load plugin [chat.players.php]
+[XAseco] Load plugin [chat.players2.php]
+[XAseco] Load plugin [chat.wins.php]
+[XAseco] Load plugin [chat.laston.php]
+[XAseco] Load plugin [chat.lastwin.php]
+[XAseco] Load plugin [chat.stats.php]
+[XAseco] Load plugin [chat.server.php]
+[XAseco] Load plugin [chat.songmod.php]
+[XAseco] Load plugin [chat.me.php]
+[XAseco] Load plugin [plugin.tmxinfo.php]
+[XAseco] Load plugin [plugin.track.php]
+[XAseco] Load plugin [plugin.checkpoints.php]
+[XAseco] Load plugin [plugin.dedimania.php]
+[XAseco] Load plugin [plugin.rasp.php]
+[XAseco] Load plugin [plugin.rasp_jukebox.php]
+[XAseco] Load plugin [plugin.rasp_chat.php]
+[XAseco] Load plugin [plugin.rasp_karma.php]
+[XAseco] Load plugin [plugin.rasp_nextmap.php]
+[XAseco] Load plugin [plugin.rasp_nextrank.php]
+[XAseco] Load plugin [plugin.rasp_votes.php]
+[XAseco] Load plugin [plugin.chatlog.php]
+[XAseco] Load plugin [plugin.style.php]
+[XAseco] Load plugin [plugin.panels.php]
+[XAseco] Load plugin [plugin.uptodate.php]
+[XAseco] Load plugin [jfreu.plugin.php]
+[XAseco] Load plugin [mistral.idlekick.php]
+[09/19,16:01:34] Try to connect to TM dedicated server on 127.0.0.1:5000 timeout 180s
+[09/19,16:01:34] Try to authenticate with login 'SuperAdmin' and password 'Calvin0216'
+[XASECO Warning] [-1000] Authenticate - Password incorrect.
+[XASECO Fatal Error] Connection could not be established ! on line 714 in file C:\TMServer\XASECO\aseco.php
+[XAseco] PHP Version is 5.3.29 on WINNT
+[XAseco] Load settings [config.xml]
+[XAseco] Load admin/ops lists [adminops.xml]
+[XAseco] Load banned IPs list [bannedips.xml]
+[XAseco] Load plugins list [plugins.xml]
+[XAseco] Load plugin [plugin.localdatabase.php]
+[XAseco] Load plugin [plugin.rounds.php]
+[XAseco] Load plugin [chat.admin.php]
+[XAseco] Load plugin [chat.help.php]
+[XAseco] Load plugin [chat.records.php]
+[XAseco] Load plugin [chat.records2.php]
+[XAseco] Load plugin [chat.recrels.php]
+[XAseco] Load plugin [chat.dedimania.php]
+[XAseco] Load plugin [chat.players.php]
+[XAseco] Load plugin [chat.players2.php]
+[XAseco] Load plugin [chat.wins.php]
+[XAseco] Load plugin [chat.laston.php]
+[XAseco] Load plugin [chat.lastwin.php]
+[XAseco] Load plugin [chat.stats.php]
+[XAseco] Load plugin [chat.server.php]
+[XAseco] Load plugin [chat.songmod.php]
+[XAseco] Load plugin [chat.me.php]
+[XAseco] Load plugin [plugin.tmxinfo.php]
+[XAseco] Load plugin [plugin.track.php]
+[XAseco] Load plugin [plugin.checkpoints.php]
+[XAseco] Load plugin [plugin.dedimania.php]
+[XAseco] Load plugin [plugin.rasp.php]
+[XAseco] Load plugin [plugin.rasp_jukebox.php]
+[XAseco] Load plugin [plugin.rasp_chat.php]
+[XAseco] Load plugin [plugin.rasp_karma.php]
+[XAseco] Load plugin [plugin.rasp_nextmap.php]
+[XAseco] Load plugin [plugin.rasp_nextrank.php]
+[XAseco] Load plugin [plugin.rasp_votes.php]
+[XAseco] Load plugin [plugin.chatlog.php]
+[XAseco] Load plugin [plugin.style.php]
+[XAseco] Load plugin [plugin.panels.php]
+[XAseco] Load plugin [plugin.uptodate.php]
+[XAseco] Load plugin [jfreu.plugin.php]
+[XAseco] Load plugin [mistral.idlekick.php]
+[09/19,16:04:56] Try to connect to TM dedicated server on 127.0.0.1:5000 timeout 180s
+[09/19,16:04:56] Try to authenticate with login 'SuperAdmin' and password 'Calvin0216'
+[XASECO Warning] [-1000] Authenticate - Password incorrect.
+[XASECO Fatal Error] Connection could not be established ! on line 714 in file C:\TMServer\XASECO\aseco.php
+[XAseco] PHP Version is 5.3.29 on WINNT
+[XAseco] Load settings [config.xml]
+[XAseco] Load admin/ops lists [adminops.xml]
+[XAseco] Load banned IPs list [bannedips.xml]
+[XAseco] Load plugins list [plugins.xml]
+[XAseco] Load plugin [plugin.localdatabase.php]
+[XAseco] Load plugin [plugin.rounds.php]
+[XAseco] Load plugin [chat.admin.php]
+[XAseco] Load plugin [chat.help.php]
+[XAseco] Load plugin [chat.records.php]
+[XAseco] Load plugin [chat.records2.php]
+[XAseco] Load plugin [chat.recrels.php]
+[XAseco] Load plugin [chat.dedimania.php]
+[XAseco] Load plugin [chat.players.php]
+[XAseco] Load plugin [chat.players2.php]
+[XAseco] Load plugin [chat.wins.php]
+[XAseco] Load plugin [chat.laston.php]
+[XAseco] Load plugin [chat.lastwin.php]
+[XAseco] Load plugin [chat.stats.php]
+[XAseco] Load plugin [chat.server.php]
+[XAseco] Load plugin [chat.songmod.php]
+[XAseco] Load plugin [chat.me.php]
+[XAseco] Load plugin [plugin.tmxinfo.php]
+[XAseco] Load plugin [plugin.track.php]
+[XAseco] Load plugin [plugin.checkpoints.php]
+[XAseco] Load plugin [plugin.dedimania.php]
+[XAseco] Load plugin [plugin.rasp.php]
+[XAseco] Load plugin [plugin.rasp_jukebox.php]
+[XAseco] Load plugin [plugin.rasp_chat.php]
+[XAseco] Load plugin [plugin.rasp_karma.php]
+[XAseco] Load plugin [plugin.rasp_nextmap.php]
+[XAseco] Load plugin [plugin.rasp_nextrank.php]
+[XAseco] Load plugin [plugin.rasp_votes.php]
+[XAseco] Load plugin [plugin.chatlog.php]
+[XAseco] Load plugin [plugin.style.php]
+[XAseco] Load plugin [plugin.panels.php]
+[XAseco] Load plugin [plugin.uptodate.php]
+[XAseco] Load plugin [jfreu.plugin.php]
+[XAseco] Load plugin [mistral.idlekick.php]
+[09/19,16:05:54] Try to connect to TM dedicated server on 127.0.0.1:5000 timeout 180s
+[09/19,16:05:54] Try to authenticate with login 'SuperAdmin' and password 'Calvin0216'
+[XASECO Warning] [-1000] Authenticate - Password incorrect.
+[XASECO Fatal Error] Connection could not be established ! on line 714 in file C:\TMServer\XASECO\aseco.php
+[XAseco] PHP Version is 5.3.29 on WINNT
+[XAseco] Load settings [config.xml]
+[XAseco] Load admin/ops lists [adminops.xml]
+[XAseco] Load banned IPs list [bannedips.xml]
+[XAseco] Load plugins list [plugins.xml]
+[XAseco] Load plugin [plugin.localdatabase.php]
+[XAseco] Load plugin [plugin.rounds.php]
+[XAseco] Load plugin [chat.admin.php]
+[XAseco] Load plugin [chat.help.php]
+[XAseco] Load plugin [chat.records.php]
+[XAseco] Load plugin [chat.records2.php]
+[XAseco] Load plugin [chat.recrels.php]
+[XAseco] Load plugin [chat.dedimania.php]
+[XAseco] Load plugin [chat.players.php]
+[XAseco] Load plugin [chat.players2.php]
+[XAseco] Load plugin [chat.wins.php]
+[XAseco] Load plugin [chat.laston.php]
+[XAseco] Load plugin [chat.lastwin.php]
+[XAseco] Load plugin [chat.stats.php]
+[XAseco] Load plugin [chat.server.php]
+[XAseco] Load plugin [chat.songmod.php]
+[XAseco] Load plugin [chat.me.php]
+[XAseco] Load plugin [plugin.tmxinfo.php]
+[XAseco] Load plugin [plugin.track.php]
+[XAseco] Load plugin [plugin.checkpoints.php]
+[XAseco] Load plugin [plugin.dedimania.php]
+[XAseco] Load plugin [plugin.rasp.php]
+[XAseco] Load plugin [plugin.rasp_jukebox.php]
+[XAseco] Load plugin [plugin.rasp_chat.php]
+[XAseco] Load plugin [plugin.rasp_karma.php]
+[XAseco] Load plugin [plugin.rasp_nextmap.php]
+[XAseco] Load plugin [plugin.rasp_nextrank.php]
+[XAseco] Load plugin [plugin.rasp_votes.php]
+[XAseco] Load plugin [plugin.chatlog.php]
+[XAseco] Load plugin [plugin.style.php]
+[XAseco] Load plugin [plugin.panels.php]
+[XAseco] Load plugin [plugin.uptodate.php]
+[XAseco] Load plugin [jfreu.plugin.php]
+[XAseco] Load plugin [mistral.idlekick.php]
+[09/19,16:08:25] Try to connect to TM dedicated server on 127.0.0.1:5000 timeout 180s
+[09/19,16:08:25] Try to authenticate with login 'SuperAdmin' and password 'pass1234'
+[XASECO Warning] [-1000] Authenticate - Password incorrect.
+[XASECO Fatal Error] Connection could not be established ! on line 714 in file C:\TMServer\XASECO\aseco.php
+[XAseco] PHP Version is 5.3.29 on WINNT
+[XAseco] Load settings [config.xml]
+[XAseco] Load admin/ops lists [adminops.xml]
+[XAseco] Load banned IPs list [bannedips.xml]
+[XAseco] Load plugins list [plugins.xml]
+[XAseco] Load plugin [plugin.localdatabase.php]
+[XAseco] Load plugin [plugin.rounds.php]
+[XAseco] Load plugin [chat.admin.php]
+[XAseco] Load plugin [chat.help.php]
+[XAseco] Load plugin [chat.records.php]
+[XAseco] Load plugin [chat.records2.php]
+[XAseco] Load plugin [chat.recrels.php]
+[XAseco] Load plugin [chat.dedimania.php]
+[XAseco] Load plugin [chat.players.php]
+[XAseco] Load plugin [chat.players2.php]
+[XAseco] Load plugin [chat.wins.php]
+[XAseco] Load plugin [chat.laston.php]
+[XAseco] Load plugin [chat.lastwin.php]
+[XAseco] Load plugin [chat.stats.php]
+[XAseco] Load plugin [chat.server.php]
+[XAseco] Load plugin [chat.songmod.php]
+[XAseco] Load plugin [chat.me.php]
+[XAseco] Load plugin [plugin.tmxinfo.php]
+[XAseco] Load plugin [plugin.track.php]
+[XAseco] Load plugin [plugin.checkpoints.php]
+[XAseco] Load plugin [plugin.dedimania.php]
+[XAseco] Load plugin [plugin.rasp.php]
+[XAseco] Load plugin [plugin.rasp_jukebox.php]
+[XAseco] Load plugin [plugin.rasp_chat.php]
+[XAseco] Load plugin [plugin.rasp_karma.php]
+[XAseco] Load plugin [plugin.rasp_nextmap.php]
+[XAseco] Load plugin [plugin.rasp_nextrank.php]
+[XAseco] Load plugin [plugin.rasp_votes.php]
+[XAseco] Load plugin [plugin.chatlog.php]
+[XAseco] Load plugin [plugin.style.php]
+[XAseco] Load plugin [plugin.panels.php]
+[XAseco] Load plugin [plugin.uptodate.php]
+[XAseco] Load plugin [jfreu.plugin.php]
+[XAseco] Load plugin [mistral.idlekick.php]
+[09/19,16:09:16] Try to connect to TM dedicated server on 127.0.0.1:5000 timeout 180s
+[09/19,16:09:16] Try to authenticate with login 'SuperAdmin' and password 'pass1234'
+[XASECO Warning] [-1000] Authenticate - Password incorrect.
+[XASECO Fatal Error] Connection could not be established ! on line 714 in file C:\TMServer\XASECO\aseco.php
+[XAseco] PHP Version is 5.3.29 on WINNT
+[XAseco] Load settings [config.xml]
+[XAseco] Load admin/ops lists [adminops.xml]
+[XAseco] Load banned IPs list [bannedips.xml]
+[XAseco] Load plugins list [plugins.xml]
+[XAseco] Load plugin [plugin.localdatabase.php]
+[XAseco] Load plugin [plugin.rounds.php]
+[XAseco] Load plugin [chat.admin.php]
+[XAseco] Load plugin [chat.help.php]
+[XAseco] Load plugin [chat.records.php]
+[XAseco] Load plugin [chat.records2.php]
+[XAseco] Load plugin [chat.recrels.php]
+[XAseco] Load plugin [chat.dedimania.php]
+[XAseco] Load plugin [chat.players.php]
+[XAseco] Load plugin [chat.players2.php]
+[XAseco] Load plugin [chat.wins.php]
+[XAseco] Load plugin [chat.laston.php]
+[XAseco] Load plugin [chat.lastwin.php]
+[XAseco] Load plugin [chat.stats.php]
+[XAseco] Load plugin [chat.server.php]
+[XAseco] Load plugin [chat.songmod.php]
+[XAseco] Load plugin [chat.me.php]
+[XAseco] Load plugin [plugin.tmxinfo.php]
+[XAseco] Load plugin [plugin.track.php]
+[XAseco] Load plugin [plugin.checkpoints.php]
+[XAseco] Load plugin [plugin.dedimania.php]
+[XAseco] Load plugin [plugin.rasp.php]
+[XAseco] Load plugin [plugin.rasp_jukebox.php]
+[XAseco] Load plugin [plugin.rasp_chat.php]
+[XAseco] Load plugin [plugin.rasp_karma.php]
+[XAseco] Load plugin [plugin.rasp_nextmap.php]
+[XAseco] Load plugin [plugin.rasp_nextrank.php]
+[XAseco] Load plugin [plugin.rasp_votes.php]
+[XAseco] Load plugin [plugin.chatlog.php]
+[XAseco] Load plugin [plugin.style.php]
+[XAseco] Load plugin [plugin.panels.php]
+[XAseco] Load plugin [plugin.uptodate.php]
+[XAseco] Load plugin [jfreu.plugin.php]
+[XAseco] Load plugin [mistral.idlekick.php]
+[09/19,16:13:24] Try to connect to TM dedicated server on 127.0.0.1:5000 timeout 180s
+[09/19,16:13:24] Try to authenticate with login 'SuperAdmin' and password 'pass1234'
+[XASECO Warning] [-1000] Authenticate - Password incorrect.
+[XASECO Fatal Error] Connection could not be established ! on line 714 in file C:\TMServer\XASECO\aseco.php
+[XAseco] PHP Version is 5.3.29 on WINNT
+[XAseco] Load settings [config.xml]
+[XAseco] Load admin/ops lists [adminops.xml]
+[XAseco] Load banned IPs list [bannedips.xml]
+[XAseco] Load plugins list [plugins.xml]
+[XAseco] Load plugin [plugin.localdatabase.php]
+[XAseco] Load plugin [plugin.rounds.php]
+[XAseco] Load plugin [chat.admin.php]
+[XAseco] Load plugin [chat.help.php]
+[XAseco] Load plugin [chat.records.php]
+[XAseco] Load plugin [chat.records2.php]
+[XAseco] Load plugin [chat.recrels.php]
+[XAseco] Load plugin [chat.dedimania.php]
+[XAseco] Load plugin [chat.players.php]
+[XAseco] Load plugin [chat.players2.php]
+[XAseco] Load plugin [chat.wins.php]
+[XAseco] Load plugin [chat.laston.php]
+[XAseco] Load plugin [chat.lastwin.php]
+[XAseco] Load plugin [chat.stats.php]
+[XAseco] Load plugin [chat.server.php]
+[XAseco] Load plugin [chat.songmod.php]
+[XAseco] Load plugin [chat.me.php]
+[XAseco] Load plugin [plugin.tmxinfo.php]
+[XAseco] Load plugin [plugin.track.php]
+[XAseco] Load plugin [plugin.checkpoints.php]
+[XAseco] Load plugin [plugin.dedimania.php]
+[XAseco] Load plugin [plugin.rasp.php]
+[XAseco] Load plugin [plugin.rasp_jukebox.php]
+[XAseco] Load plugin [plugin.rasp_chat.php]
+[XAseco] Load plugin [plugin.rasp_karma.php]
+[XAseco] Load plugin [plugin.rasp_nextmap.php]
+[XAseco] Load plugin [plugin.rasp_nextrank.php]
+[XAseco] Load plugin [plugin.rasp_votes.php]
+[XAseco] Load plugin [plugin.chatlog.php]
+[XAseco] Load plugin [plugin.style.php]
+[XAseco] Load plugin [plugin.panels.php]
+[XAseco] Load plugin [plugin.uptodate.php]
+[XAseco] Load plugin [jfreu.plugin.php]
+[XAseco] Load plugin [mistral.idlekick.php]
+[09/19,16:18:33] Try to connect to TM dedicated server on 127.0.0.1:5000 timeout 180s
+[09/19,16:18:33] Try to authenticate with login 'SuperAdmin' and password 'pass1234'
+[XASECO Warning] [-1000] Authenticate - Password incorrect.
+[XASECO Fatal Error] Connection could not be established ! on line 714 in file C:\TMServer\XASECO\aseco.php
+[XAseco] PHP Version is 5.3.29 on WINNT
+[XAseco] Load settings [config.xml]
+[XAseco] Load admin/ops lists [adminops.xml]
+[XAseco] Load banned IPs list [bannedips.xml]
+[XAseco] Load plugins list [plugins.xml]
+[XAseco] Load plugin [plugin.localdatabase.php]
+[XAseco] Load plugin [plugin.rounds.php]
+[XAseco] Load plugin [chat.admin.php]
+[XAseco] Load plugin [chat.help.php]
+[XAseco] Load plugin [chat.records.php]
+[XAseco] Load plugin [chat.records2.php]
+[XAseco] Load plugin [chat.recrels.php]
+[XAseco] Load plugin [chat.dedimania.php]
+[XAseco] Load plugin [chat.players.php]
+[XAseco] Load plugin [chat.players2.php]
+[XAseco] Load plugin [chat.wins.php]
+[XAseco] Load plugin [chat.laston.php]
+[XAseco] Load plugin [chat.lastwin.php]
+[XAseco] Load plugin [chat.stats.php]
+[XAseco] Load plugin [chat.server.php]
+[XAseco] Load plugin [chat.songmod.php]
+[XAseco] Load plugin [chat.me.php]
+[XAseco] Load plugin [plugin.tmxinfo.php]
+[XAseco] Load plugin [plugin.track.php]
+[XAseco] Load plugin [plugin.checkpoints.php]
+[XAseco] Load plugin [plugin.dedimania.php]
+[XAseco] Load plugin [plugin.rasp.php]
+[XAseco] Load plugin [plugin.rasp_jukebox.php]
+[XAseco] Load plugin [plugin.rasp_chat.php]
+[XAseco] Load plugin [plugin.rasp_karma.php]
+[XAseco] Load plugin [plugin.rasp_nextmap.php]
+[XAseco] Load plugin [plugin.rasp_nextrank.php]
+[XAseco] Load plugin [plugin.rasp_votes.php]
+[XAseco] Load plugin [plugin.chatlog.php]
+[XAseco] Load plugin [plugin.style.php]
+[XAseco] Load plugin [plugin.panels.php]
+[XAseco] Load plugin [plugin.uptodate.php]
+[XAseco] Load plugin [jfreu.plugin.php]
+[XAseco] Load plugin [mistral.idlekick.php]
+[XASECO Fatal Error] Connection could not be established ! on line 714 in file C:\TMServer\XASECO\aseco.php
+[XAseco] PHP Version is 5.3.29 on WINNT
+[XAseco] Load settings [config.xml]
+[XAseco] Load admin/ops lists [adminops.xml]
+[XAseco] Load banned IPs list [bannedips.xml]
+[XAseco] Load plugins list [plugins.xml]
+[XAseco] Load plugin [plugin.localdatabase.php]
+[XAseco] Load plugin [plugin.rounds.php]
+[XAseco] Load plugin [chat.admin.php]
+[XAseco] Load plugin [chat.help.php]
+[XAseco] Load plugin [chat.records.php]
+[XAseco] Load plugin [chat.records2.php]
+[XAseco] Load plugin [chat.recrels.php]
+[XAseco] Load plugin [chat.dedimania.php]
+[XAseco] Load plugin [chat.players.php]
+[XAseco] Load plugin [chat.players2.php]
+[XAseco] Load plugin [chat.wins.php]
+[XAseco] Load plugin [chat.laston.php]
+[XAseco] Load plugin [chat.lastwin.php]
+[XAseco] Load plugin [chat.stats.php]
+[XAseco] Load plugin [chat.server.php]
+[XAseco] Load plugin [chat.songmod.php]
+[XAseco] Load plugin [chat.me.php]
+[XAseco] Load plugin [plugin.tmxinfo.php]
+[XAseco] Load plugin [plugin.track.php]
+[XAseco] Load plugin [plugin.checkpoints.php]
+[XAseco] Load plugin [plugin.dedimania.php]
+[XAseco] Load plugin [plugin.rasp.php]
+[XAseco] Load plugin [plugin.rasp_jukebox.php]
+[XAseco] Load plugin [plugin.rasp_chat.php]
+[XAseco] Load plugin [plugin.rasp_karma.php]
+[XAseco] Load plugin [plugin.rasp_nextmap.php]
+[XAseco] Load plugin [plugin.rasp_nextrank.php]
+[XAseco] Load plugin [plugin.rasp_votes.php]
+[XAseco] Load plugin [plugin.chatlog.php]
+[XAseco] Load plugin [plugin.style.php]
+[XAseco] Load plugin [plugin.panels.php]
+[XAseco] Load plugin [plugin.uptodate.php]
+[XAseco] Load plugin [jfreu.plugin.php]
+[XAseco] Load plugin [mistral.idlekick.php]
+[XASECO Fatal Error] Connection could not be established ! on line 714 in file C:\TMServer\XASECO\aseco.php
+[XAseco] PHP Version is 5.3.29 on WINNT
+[XAseco] Load settings [config.xml]
+[XAseco] Load admin/ops lists [adminops.xml]
+[XAseco] Load banned IPs list [bannedips.xml]
+[XAseco] Load plugins list [plugins.xml]
+[XAseco] Load plugin [plugin.localdatabase.php]
+[XAseco] Load plugin [plugin.rounds.php]
+[XAseco] Load plugin [chat.admin.php]
+[XAseco] Load plugin [chat.help.php]
+[XAseco] Load plugin [chat.records.php]
+[XAseco] Load plugin [chat.records2.php]
+[XAseco] Load plugin [chat.recrels.php]
+[XAseco] Load plugin [chat.dedimania.php]
+[XAseco] Load plugin [chat.players.php]
+[XAseco] Load plugin [chat.players2.php]
+[XAseco] Load plugin [chat.wins.php]
+[XAseco] Load plugin [chat.laston.php]
+[XAseco] Load plugin [chat.lastwin.php]
+[XAseco] Load plugin [chat.stats.php]
+[XAseco] Load plugin [chat.server.php]
+[XAseco] Load plugin [chat.songmod.php]
+[XAseco] Load plugin [chat.me.php]
+[XAseco] Load plugin [plugin.tmxinfo.php]
+[XAseco] Load plugin [plugin.track.php]
+[XAseco] Load plugin [plugin.checkpoints.php]
+[XAseco] Load plugin [plugin.dedimania.php]
+[XAseco] Load plugin [plugin.rasp.php]
+[XAseco] Load plugin [plugin.rasp_jukebox.php]
+[XAseco] Load plugin [plugin.rasp_chat.php]
+[XAseco] Load plugin [plugin.rasp_karma.php]
+[XAseco] Load plugin [plugin.rasp_nextmap.php]
+[XAseco] Load plugin [plugin.rasp_nextrank.php]
+[XAseco] Load plugin [plugin.rasp_votes.php]
+[XAseco] Load plugin [plugin.chatlog.php]
+[XAseco] Load plugin [plugin.style.php]
+[XAseco] Load plugin [plugin.panels.php]
+[XAseco] Load plugin [plugin.uptodate.php]
+[XAseco] Load plugin [jfreu.plugin.php]
+[XAseco] Load plugin [mistral.idlekick.php]
+[XASECO Fatal Error] Connection could not be established ! on line 714 in file C:\TMServer\XASECO\aseco.php
+[XAseco] PHP Version is 5.3.29 on WINNT
+[XAseco] Load settings [config.xml]
+[XAseco] Load admin/ops lists [adminops.xml]
+[XAseco] Load banned IPs list [bannedips.xml]
+[XAseco] Load plugins list [plugins.xml]
+[XAseco] Load plugin [plugin.localdatabase.php]
+[XAseco] Load plugin [plugin.rounds.php]
+[XAseco] Load plugin [chat.admin.php]
+[XAseco] Load plugin [chat.help.php]
+[XAseco] Load plugin [chat.records.php]
+[XAseco] Load plugin [chat.records2.php]
+[XAseco] Load plugin [chat.recrels.php]
+[XAseco] Load plugin [chat.dedimania.php]
+[XAseco] Load plugin [chat.players.php]
+[XAseco] Load plugin [chat.players2.php]
+[XAseco] Load plugin [chat.wins.php]
+[XAseco] Load plugin [chat.laston.php]
+[XAseco] Load plugin [chat.lastwin.php]
+[XAseco] Load plugin [chat.stats.php]
+[XAseco] Load plugin [chat.server.php]
+[XAseco] Load plugin [chat.songmod.php]
+[XAseco] Load plugin [chat.me.php]
+[XAseco] Load plugin [plugin.tmxinfo.php]
+[XAseco] Load plugin [plugin.track.php]
+[XAseco] Load plugin [plugin.checkpoints.php]
+[XAseco] Load plugin [plugin.dedimania.php]
+[XAseco] Load plugin [plugin.rasp.php]
+[XAseco] Load plugin [plugin.rasp_jukebox.php]
+[XAseco] Load plugin [plugin.rasp_chat.php]
+[XAseco] Load plugin [plugin.rasp_karma.php]
+[XAseco] Load plugin [plugin.rasp_nextmap.php]
+[XAseco] Load plugin [plugin.rasp_nextrank.php]
+[XAseco] Load plugin [plugin.rasp_votes.php]
+[XAseco] Load plugin [plugin.chatlog.php]
+[XAseco] Load plugin [plugin.style.php]
+[XAseco] Load plugin [plugin.panels.php]
+[XAseco] Load plugin [plugin.uptodate.php]
+[XAseco] Load plugin [jfreu.plugin.php]
+[XAseco] Load plugin [mistral.idlekick.php]
+[09/19,16:20:44] Try to connect to TM dedicated server on 127.0.0.1:5000 timeout 180s
+[09/19,16:20:44] Try to authenticate with login 'SuperAdmin' and password 'pass1234'
+[XASECO Warning] [-1000] Authenticate - Password incorrect.
+[XASECO Fatal Error] Connection could not be established ! on line 714 in file C:\TMServer\XASECO\aseco.php
+[XAseco] PHP Version is 5.3.29 on WINNT
+[XAseco] Load settings [config.xml]
+[XAseco] Load admin/ops lists [adminops.xml]
+[XAseco] Load banned IPs list [bannedips.xml]
+[XAseco] Load plugins list [plugins.xml]
+[XAseco] Load plugin [plugin.localdatabase.php]
+[XAseco] Load plugin [plugin.rounds.php]
+[XAseco] Load plugin [chat.admin.php]
+[XAseco] Load plugin [chat.help.php]
+[XAseco] Load plugin [chat.records.php]
+[XAseco] Load plugin [chat.records2.php]
+[XAseco] Load plugin [chat.recrels.php]
+[XAseco] Load plugin [chat.dedimania.php]
+[XAseco] Load plugin [chat.players.php]
+[XAseco] Load plugin [chat.players2.php]
+[XAseco] Load plugin [chat.wins.php]
+[XAseco] Load plugin [chat.laston.php]
+[XAseco] Load plugin [chat.lastwin.php]
+[XAseco] Load plugin [chat.stats.php]
+[XAseco] Load plugin [chat.server.php]
+[XAseco] Load plugin [chat.songmod.php]
+[XAseco] Load plugin [chat.me.php]
+[XAseco] Load plugin [plugin.tmxinfo.php]
+[XAseco] Load plugin [plugin.track.php]
+[XAseco] Load plugin [plugin.checkpoints.php]
+[XAseco] Load plugin [plugin.dedimania.php]
+[XAseco] Load plugin [plugin.rasp.php]
+[XAseco] Load plugin [plugin.rasp_jukebox.php]
+[XAseco] Load plugin [plugin.rasp_chat.php]
+[XAseco] Load plugin [plugin.rasp_karma.php]
+[XAseco] Load plugin [plugin.rasp_nextmap.php]
+[XAseco] Load plugin [plugin.rasp_nextrank.php]
+[XAseco] Load plugin [plugin.rasp_votes.php]
+[XAseco] Load plugin [plugin.chatlog.php]
+[XAseco] Load plugin [plugin.style.php]
+[XAseco] Load plugin [plugin.panels.php]
+[XAseco] Load plugin [plugin.uptodate.php]
+[XAseco] Load plugin [jfreu.plugin.php]
+[XAseco] Load plugin [mistral.idlekick.php]
+[09/19,16:21:41] Try to connect to TM dedicated server on 127.0.0.1:5000 timeout 180s
+[09/19,16:21:41] Try to authenticate with login 'SuperAdmin' and password 'pass1234'
+[XASECO Warning] [-1000] Authenticate - Password incorrect.
+[XASECO Fatal Error] Connection could not be established ! on line 714 in file C:\TMServer\XASECO\aseco.php
+[XAseco] PHP Version is 5.3.29 on WINNT
+[XAseco] Load settings [config.xml]
+[XAseco] Load admin/ops lists [adminops.xml]
+[XAseco] Load banned IPs list [bannedips.xml]
+[XAseco] Load plugins list [plugins.xml]
+[XAseco] Load plugin [plugin.localdatabase.php]
+[XAseco] Load plugin [plugin.rounds.php]
+[XAseco] Load plugin [chat.admin.php]
+[XAseco] Load plugin [chat.help.php]
+[XAseco] Load plugin [chat.records.php]
+[XAseco] Load plugin [chat.records2.php]
+[XAseco] Load plugin [chat.recrels.php]
+[XAseco] Load plugin [chat.dedimania.php]
+[XAseco] Load plugin [chat.players.php]
+[XAseco] Load plugin [chat.players2.php]
+[XAseco] Load plugin [chat.wins.php]
+[XAseco] Load plugin [chat.laston.php]
+[XAseco] Load plugin [chat.lastwin.php]
+[XAseco] Load plugin [chat.stats.php]
+[XAseco] Load plugin [chat.server.php]
+[XAseco] Load plugin [chat.songmod.php]
+[XAseco] Load plugin [chat.me.php]
+[XAseco] Load plugin [plugin.tmxinfo.php]
+[XAseco] Load plugin [plugin.track.php]
+[XAseco] Load plugin [plugin.checkpoints.php]
+[XAseco] Load plugin [plugin.dedimania.php]
+[XAseco] Load plugin [plugin.rasp.php]
+[XAseco] Load plugin [plugin.rasp_jukebox.php]
+[XAseco] Load plugin [plugin.rasp_chat.php]
+[XAseco] Load plugin [plugin.rasp_karma.php]
+[XAseco] Load plugin [plugin.rasp_nextmap.php]
+[XAseco] Load plugin [plugin.rasp_nextrank.php]
+[XAseco] Load plugin [plugin.rasp_votes.php]
+[XAseco] Load plugin [plugin.chatlog.php]
+[XAseco] Load plugin [plugin.style.php]
+[XAseco] Load plugin [plugin.panels.php]
+[XAseco] Load plugin [plugin.uptodate.php]
+[XAseco] Load plugin [jfreu.plugin.php]
+[XAseco] Load plugin [mistral.idlekick.php]
+[09/19,16:22:16] Try to connect to TM dedicated server on 127.0.0.1:5000 timeout 180s
+[09/19,16:22:16] Try to authenticate with login 'SuperAdmin' and password 'pass1234'
+[XASECO Warning] [-1000] Authenticate - Password incorrect.
+[XASECO Fatal Error] Connection could not be established ! on line 714 in file C:\TMServer\XASECO\aseco.php
+[XAseco] PHP Version is 5.3.29 on WINNT
+[XAseco] Load settings [config.xml]
+[XAseco] Load admin/ops lists [adminops.xml]
+[XAseco] Load banned IPs list [bannedips.xml]
+[XAseco] Load plugins list [plugins.xml]
+[XAseco] Load plugin [plugin.localdatabase.php]
+[XAseco] Load plugin [plugin.rounds.php]
+[XAseco] Load plugin [chat.admin.php]
+[XAseco] Load plugin [chat.help.php]
+[XAseco] Load plugin [chat.records.php]
+[XAseco] Load plugin [chat.records2.php]
+[XAseco] Load plugin [chat.recrels.php]
+[XAseco] Load plugin [chat.dedimania.php]
+[XAseco] Load plugin [chat.players.php]
+[XAseco] Load plugin [chat.players2.php]
+[XAseco] Load plugin [chat.wins.php]
+[XAseco] Load plugin [chat.laston.php]
+[XAseco] Load plugin [chat.lastwin.php]
+[XAseco] Load plugin [chat.stats.php]
+[XAseco] Load plugin [chat.server.php]
+[XAseco] Load plugin [chat.songmod.php]
+[XAseco] Load plugin [chat.me.php]
+[XAseco] Load plugin [plugin.tmxinfo.php]
+[XAseco] Load plugin [plugin.track.php]
+[XAseco] Load plugin [plugin.checkpoints.php]
+[XAseco] Load plugin [plugin.dedimania.php]
+[XAseco] Load plugin [plugin.rasp.php]
+[XAseco] Load plugin [plugin.rasp_jukebox.php]
+[XAseco] Load plugin [plugin.rasp_chat.php]
+[XAseco] Load plugin [plugin.rasp_karma.php]
+[XAseco] Load plugin [plugin.rasp_nextmap.php]
+[XAseco] Load plugin [plugin.rasp_nextrank.php]
+[XAseco] Load plugin [plugin.rasp_votes.php]
+[XAseco] Load plugin [plugin.chatlog.php]
+[XAseco] Load plugin [plugin.style.php]
+[XAseco] Load plugin [plugin.panels.php]
+[XAseco] Load plugin [plugin.uptodate.php]
+[XAseco] Load plugin [jfreu.plugin.php]
+[XAseco] Load plugin [mistral.idlekick.php]
+[09/19,16:24:30] Try to connect to TM dedicated server on 127.0.0.1:5000 timeout 180s
+[09/19,16:24:30] Try to authenticate with login 'SuperAdmin' and password 'pass1234'
+[XASECO Warning] [-1000] Authenticate - Password incorrect.
+[XASECO Fatal Error] Connection could not be established ! on line 714 in file C:\TMServer\XASECO\aseco.php
+[XAseco] PHP Version is 5.3.29 on WINNT
+[XAseco] Load settings [config.xml]
+[XAseco] Load admin/ops lists [adminops.xml]
+[XAseco] Load banned IPs list [bannedips.xml]
+[XAseco] Load plugins list [plugins.xml]
+[XAseco] Load plugin [plugin.localdatabase.php]
+[XAseco] Load plugin [plugin.rounds.php]
+[XAseco] Load plugin [chat.admin.php]
+[XAseco] Load plugin [chat.help.php]
+[XAseco] Load plugin [chat.records.php]
+[XAseco] Load plugin [chat.records2.php]
+[XAseco] Load plugin [chat.recrels.php]
+[XAseco] Load plugin [chat.dedimania.php]
+[XAseco] Load plugin [chat.players.php]
+[XAseco] Load plugin [chat.players2.php]
+[XAseco] Load plugin [chat.wins.php]
+[XAseco] Load plugin [chat.laston.php]
+[XAseco] Load plugin [chat.lastwin.php]
+[XAseco] Load plugin [chat.stats.php]
+[XAseco] Load plugin [chat.server.php]
+[XAseco] Load plugin [chat.songmod.php]
+[XAseco] Load plugin [chat.me.php]
+[XAseco] Load plugin [plugin.tmxinfo.php]
+[XAseco] Load plugin [plugin.track.php]
+[XAseco] Load plugin [plugin.checkpoints.php]
+[XAseco] Load plugin [plugin.dedimania.php]
+[XAseco] Load plugin [plugin.rasp.php]
+[XAseco] Load plugin [plugin.rasp_jukebox.php]
+[XAseco] Load plugin [plugin.rasp_chat.php]
+[XAseco] Load plugin [plugin.rasp_karma.php]
+[XAseco] Load plugin [plugin.rasp_nextmap.php]
+[XAseco] Load plugin [plugin.rasp_nextrank.php]
+[XAseco] Load plugin [plugin.rasp_votes.php]
+[XAseco] Load plugin [plugin.chatlog.php]
+[XAseco] Load plugin [plugin.style.php]
+[XAseco] Load plugin [plugin.panels.php]
+[XAseco] Load plugin [plugin.uptodate.php]
+[XAseco] Load plugin [jfreu.plugin.php]
+[XAseco] Load plugin [mistral.idlekick.php]
+[09/19,16:25:47] Try to connect to TM dedicated server on 127.0.0.1:5001 timeout 180s
+[09/19,16:25:47] Try to authenticate with login 'SuperAdmin' and password 'pass1234'
+[09/19,16:25:47] Waiting for dedicated server to reach status 'Running - Play'...
+[09/19,16:25:47] Status: Running - Synchronization
+[09/19,16:25:50] Status: Running - Play
+[09/19,16:25:50] Connection established successfully !
+[09/19,16:25:50] [LocalDB] Load config file [localdatabase.xml]
+[XASECO Fatal Error] Could not read/parse Local database config file localdatabase.xml ! on line 32 in file C:\TMServer\XASECO\plugins\plugin.localdatabase.php
+[XAseco] PHP Version is 5.3.29 on WINNT
+[XAseco] Load settings [config.xml]
+[XAseco] Load admin/ops lists [adminops.xml]
+[XAseco] Load banned IPs list [bannedips.xml]
+[XAseco] Load plugins list [plugins.xml]
+[XAseco] Load plugin [plugin.localdatabase.php]
+[XAseco] Load plugin [plugin.rounds.php]
+[XAseco] Load plugin [chat.admin.php]
+[XAseco] Load plugin [chat.help.php]
+[XAseco] Load plugin [chat.records.php]
+[XAseco] Load plugin [chat.records2.php]
+[XAseco] Load plugin [chat.recrels.php]
+[XAseco] Load plugin [chat.dedimania.php]
+[XAseco] Load plugin [chat.players.php]
+[XAseco] Load plugin [chat.players2.php]
+[XAseco] Load plugin [chat.wins.php]
+[XAseco] Load plugin [chat.laston.php]
+[XAseco] Load plugin [chat.lastwin.php]
+[XAseco] Load plugin [chat.stats.php]
+[XAseco] Load plugin [chat.server.php]
+[XAseco] Load plugin [chat.songmod.php]
+[XAseco] Load plugin [chat.me.php]
+[XAseco] Load plugin [plugin.tmxinfo.php]
+[XAseco] Load plugin [plugin.track.php]
+[XAseco] Load plugin [plugin.checkpoints.php]
+[XAseco] Load plugin [plugin.dedimania.php]
+[XAseco] Load plugin [plugin.rasp.php]
+[XAseco] Load plugin [plugin.rasp_jukebox.php]
+[XAseco] Load plugin [plugin.rasp_chat.php]
+[XAseco] Load plugin [plugin.rasp_karma.php]
+[XAseco] Load plugin [plugin.rasp_nextmap.php]
+[XAseco] Load plugin [plugin.rasp_nextrank.php]
+[XAseco] Load plugin [plugin.rasp_votes.php]
+[XAseco] Load plugin [plugin.chatlog.php]
+[XAseco] Load plugin [plugin.style.php]
+[XAseco] Load plugin [plugin.panels.php]
+[XAseco] Load plugin [plugin.uptodate.php]
+[XAseco] Load plugin [jfreu.plugin.php]
+[XAseco] Load plugin [mistral.idlekick.php]
+[09/19,16:27:39] Try to connect to TM dedicated server on 127.0.0.1:5001 timeout 180s
+[09/19,16:27:39] Try to authenticate with login 'SuperAdmin' and password 'pass1234'
+[09/19,16:27:39] Waiting for dedicated server to reach status 'Running - Play'...
+[09/19,16:27:39] Status: Running - Synchronization
+[09/19,16:27:41] Status: Running - Play
+[09/19,16:27:41] Connection established successfully !
+[09/19,16:27:41] [LocalDB] Load config file [localdatabase.xml]
+[09/19,16:27:41] [LocalDB] Try to connect to MySQL server on 'localhost' with database 'aseco'
+[XAseco] PHP Version is 5.3.29 on WINNT
+[XAseco] Load settings [config.xml]
+[XAseco] Load admin/ops lists [adminops.xml]
+[XAseco] Load banned IPs list [bannedips.xml]
+[XAseco] Load plugins list [plugins.xml]
+[XAseco] Load plugin [plugin.localdatabase.php]
+[XAseco] Load plugin [plugin.rounds.php]
+[XAseco] Load plugin [chat.admin.php]
+[XAseco] Load plugin [chat.help.php]
+[XAseco] Load plugin [chat.records.php]
+[XAseco] Load plugin [chat.records2.php]
+[XAseco] Load plugin [chat.recrels.php]
+[XAseco] Load plugin [chat.dedimania.php]
+[XAseco] Load plugin [chat.players.php]
+[XAseco] Load plugin [chat.players2.php]
+[XAseco] Load plugin [chat.wins.php]
+[XAseco] Load plugin [chat.laston.php]
+[XAseco] Load plugin [chat.lastwin.php]
+[XAseco] Load plugin [chat.stats.php]
+[XAseco] Load plugin [chat.server.php]
+[XAseco] Load plugin [chat.songmod.php]
+[XAseco] Load plugin [chat.me.php]
+[XAseco] Load plugin [plugin.tmxinfo.php]
+[XAseco] Load plugin [plugin.track.php]
+[XAseco] Load plugin [plugin.checkpoints.php]
+[XAseco] Load plugin [plugin.dedimania.php]
+[XAseco] Load plugin [plugin.rasp.php]
+[XAseco] Load plugin [plugin.rasp_jukebox.php]
+[XAseco] Load plugin [plugin.rasp_chat.php]
+[XAseco] Load plugin [plugin.rasp_karma.php]
+[XAseco] Load plugin [plugin.rasp_nextmap.php]
+[XAseco] Load plugin [plugin.rasp_nextrank.php]
+[XAseco] Load plugin [plugin.rasp_votes.php]
+[XAseco] Load plugin [plugin.chatlog.php]
+[XAseco] Load plugin [plugin.style.php]
+[XAseco] Load plugin [plugin.panels.php]
+[XAseco] Load plugin [plugin.uptodate.php]
+[XAseco] Load plugin [jfreu.plugin.php]
+[XAseco] Load plugin [mistral.idlekick.php]
+[09/19,16:31:21] Try to connect to TM dedicated server on 127.0.0.1:5001 timeout 180s
+[09/19,16:31:21] Try to authenticate with login 'SuperAdmin' and password 'pass1234'
+[09/19,16:31:21] Waiting for dedicated server to reach status 'Running - Play'...
+[09/19,16:31:21] Status: Running - Synchronization
+[09/19,16:31:23] Status: Running - Play
+[09/19,16:31:23] Connection established successfully !
+[09/19,16:31:23] [LocalDB] Load config file [localdatabase.xml]
+[09/19,16:31:23] [LocalDB] Try to connect to MySQL server on 'localhost' with database 'aseco'
+[XAseco] PHP Version is 5.3.29 on WINNT
+[XAseco] Load settings [config.xml]
+[XAseco] Load admin/ops lists [adminops.xml]
+[XAseco] Load banned IPs list [bannedips.xml]
+[XAseco] Load plugins list [plugins.xml]
+[XAseco] Load plugin [plugin.localdatabase.php]
+[XAseco] Load plugin [plugin.rounds.php]
+[XAseco] Load plugin [chat.admin.php]
+[XAseco] Load plugin [chat.help.php]
+[XAseco] Load plugin [chat.records.php]
+[XAseco] Load plugin [chat.records2.php]
+[XAseco] Load plugin [chat.recrels.php]
+[XAseco] Load plugin [chat.dedimania.php]
+[XAseco] Load plugin [chat.players.php]
+[XAseco] Load plugin [chat.players2.php]
+[XAseco] Load plugin [chat.wins.php]
+[XAseco] Load plugin [chat.laston.php]
+[XAseco] Load plugin [chat.lastwin.php]
+[XAseco] Load plugin [chat.stats.php]
+[XAseco] Load plugin [chat.server.php]
+[XAseco] Load plugin [chat.songmod.php]
+[XAseco] Load plugin [chat.me.php]
+[XAseco] Load plugin [plugin.tmxinfo.php]
+[XAseco] Load plugin [plugin.track.php]
+[XAseco] Load plugin [plugin.checkpoints.php]
+[XAseco] Load plugin [plugin.dedimania.php]
+[XAseco] Load plugin [plugin.rasp.php]
+[XAseco] Load plugin [plugin.rasp_jukebox.php]
+[XAseco] Load plugin [plugin.rasp_chat.php]
+[XAseco] Load plugin [plugin.rasp_karma.php]
+[XAseco] Load plugin [plugin.rasp_nextmap.php]
+[XAseco] Load plugin [plugin.rasp_nextrank.php]
+[XAseco] Load plugin [plugin.rasp_votes.php]
+[XAseco] Load plugin [plugin.chatlog.php]
+[XAseco] Load plugin [plugin.style.php]
+[XAseco] Load plugin [plugin.panels.php]
+[XAseco] Load plugin [plugin.uptodate.php]
+[XAseco] Load plugin [jfreu.plugin.php]
+[XAseco] Load plugin [mistral.idlekick.php]
+[09/19,16:32:01] Try to connect to TM dedicated server on 127.0.0.1:5001 timeout 180s
+[09/19,16:32:01] Try to authenticate with login 'SuperAdmin' and password 'pass1234'
+[09/19,16:32:01] Waiting for dedicated server to reach status 'Running - Play'...
+[09/19,16:32:01] Status: Running - Synchronization
+[09/19,16:32:04] Status: Running - Play
+[09/19,16:32:04] Connection established successfully !
+[09/19,16:32:04] [LocalDB] Load config file [localdatabase.xml]
+[09/19,16:32:04] [LocalDB] Try to connect to MySQL server on 'localhost' with database 'aseco'
+[XAseco] PHP Version is 5.4.0 on WINNT
+[XAseco] Load settings [config.xml]
+[XAseco] Load admin/ops lists [adminops.xml]
+[XAseco] Load banned IPs list [bannedips.xml]
+[XAseco] Load plugins list [plugins.xml]
+[XAseco] Load plugin [plugin.localdatabase.php]
+[XAseco] Load plugin [plugin.rounds.php]
+[XAseco] Load plugin [chat.admin.php]
+[XAseco] Load plugin [chat.help.php]
+[XAseco] Load plugin [chat.records.php]
+[XAseco] Load plugin [chat.records2.php]
+[XAseco] Load plugin [chat.recrels.php]
+[XAseco] Load plugin [chat.dedimania.php]
+[XAseco] Load plugin [chat.players.php]
+[XAseco] Load plugin [chat.players2.php]
+[XAseco] Load plugin [chat.wins.php]
+[XAseco] Load plugin [chat.laston.php]
+[XAseco] Load plugin [chat.lastwin.php]
+[XAseco] Load plugin [chat.stats.php]
+[XAseco] Load plugin [chat.server.php]
+[XAseco] Load plugin [chat.songmod.php]
+[XAseco] Load plugin [chat.me.php]
+[XAseco] Load plugin [plugin.tmxinfo.php]
+[XAseco] Load plugin [plugin.track.php]
+[XAseco] Load plugin [plugin.checkpoints.php]
+[XAseco] Load plugin [plugin.dedimania.php]
+[XAseco] Load plugin [plugin.rasp.php]
+[XAseco] Load plugin [plugin.rasp_jukebox.php]
+[XAseco] Load plugin [plugin.rasp_chat.php]
+[XAseco] Load plugin [plugin.rasp_karma.php]
+[XAseco] Load plugin [plugin.rasp_nextmap.php]
+[XAseco] Load plugin [plugin.rasp_nextrank.php]
+[XAseco] Load plugin [plugin.rasp_votes.php]
+[XAseco] Load plugin [plugin.chatlog.php]
+[XAseco] Load plugin [plugin.style.php]
+[XAseco] Load plugin [plugin.panels.php]
+[XAseco] Load plugin [plugin.uptodate.php]
+[XAseco] Load plugin [jfreu.plugin.php]
+[XAseco] Load plugin [mistral.idlekick.php]
+[09/19,20:36:54] Try to connect to TM dedicated server on 127.0.0.1:5001 timeout 180s
+[09/19,20:36:54] Try to authenticate with login 'SuperAdmin' and password 'pass1234'
+[09/19,20:36:54] Waiting for dedicated server to reach status 'Running - Play'...
+[09/19,20:36:54] Status: Running - Synchronization
+[09/19,20:36:57] Status: Running - Play
+[09/19,20:36:57] Connection established successfully !
+[09/19,20:36:57] [LocalDB] Load config file [localdatabase.xml]
+[09/19,20:36:57] [LocalDB] Try to connect to MySQL server on 'localhost' with database 'aseco'
+[XAseco] PHP Version is 5.4.0 on WINNT
+[XAseco] Load settings [config.xml]
+[XAseco] Load admin/ops lists [adminops.xml]
+[XAseco] Load banned IPs list [bannedips.xml]
+[XAseco] Load plugins list [plugins.xml]
+[XAseco] Load plugin [plugin.rounds.php]
+[XAseco] Load plugin [chat.admin.php]
+[XAseco] Load plugin [chat.help.php]
+[XAseco] Load plugin [chat.records.php]
+[XAseco] Load plugin [chat.records2.php]
+[XAseco] Load plugin [chat.recrels.php]
+[XAseco] Load plugin [chat.dedimania.php]
+[XAseco] Load plugin [chat.players.php]
+[XAseco] Load plugin [chat.players2.php]
+[XAseco] Load plugin [chat.wins.php]
+[XAseco] Load plugin [chat.laston.php]
+[XAseco] Load plugin [chat.lastwin.php]
+[XAseco] Load plugin [chat.stats.php]
+[XAseco] Load plugin [chat.server.php]
+[XAseco] Load plugin [chat.songmod.php]
+[XAseco] Load plugin [chat.me.php]
+[XAseco] Load plugin [plugin.tmxinfo.php]
+[XAseco] Load plugin [plugin.track.php]
+[XAseco] Load plugin [plugin.checkpoints.php]
+[XAseco] Load plugin [plugin.dedimania.php]
+[XAseco] Load plugin [plugin.rasp.php]
+[XAseco] Load plugin [plugin.rasp_jukebox.php]
+[XAseco] Load plugin [plugin.rasp_chat.php]
+[XAseco] Load plugin [plugin.rasp_karma.php]
+[XAseco] Load plugin [plugin.rasp_nextmap.php]
+[XAseco] Load plugin [plugin.rasp_nextrank.php]
+[XAseco] Load plugin [plugin.rasp_votes.php]
+[XAseco] Load plugin [plugin.chatlog.php]
+[XAseco] Load plugin [plugin.style.php]
+[XAseco] Load plugin [plugin.panels.php]
+[XAseco] Load plugin [plugin.uptodate.php]
+[XAseco] Load plugin [jfreu.plugin.php]
+[XAseco] Load plugin [mistral.idlekick.php]
+[09/19,20:38:34] Try to connect to TM dedicated server on 127.0.0.1:5001 timeout 180s
+[09/19,20:38:34] Try to authenticate with login 'SuperAdmin' and password 'pass1234'
+[09/19,20:38:34] Waiting for dedicated server to reach status 'Running - Play'...
+[09/19,20:38:34] Status: Running - Synchronization
+[09/19,20:38:36] Status: Running - Play
+[09/19,20:38:36] Connection established successfully !
+[09/19,20:38:36] [RASP] Loading config file [rasp.xml]
+[XASECO Fatal Error] {RASP_ERROR} Could not read/parse config file rasp.xml ! on line 44 in file C:\TMServer\XASECO\plugins\plugin.rasp.php
+[XAseco] PHP Version is 5.4.0 on WINNT
+[XAseco] Load settings [config.xml]
+[XAseco] Load admin/ops lists [adminops.xml]
+[XAseco] Load banned IPs list [bannedips.xml]
+[XAseco] Load plugins list [plugins.xml]
+[XAseco] Load plugin [plugin.rounds.php]
+[XAseco] Load plugin [chat.admin.php]
+[XAseco] Load plugin [chat.help.php]
+[XAseco] Load plugin [chat.records.php]
+[XAseco] Load plugin [chat.records2.php]
+[XAseco] Load plugin [chat.recrels.php]
+[XAseco] Load plugin [chat.dedimania.php]
+[XAseco] Load plugin [chat.players.php]
+[XAseco] Load plugin [chat.players2.php]
+[XAseco] Load plugin [chat.wins.php]
+[XAseco] Load plugin [chat.laston.php]
+[XAseco] Load plugin [chat.lastwin.php]
+[XAseco] Load plugin [chat.stats.php]
+[XAseco] Load plugin [chat.server.php]
+[XAseco] Load plugin [chat.songmod.php]
+[XAseco] Load plugin [chat.me.php]
+[XAseco] Load plugin [plugin.tmxinfo.php]
+[XAseco] Load plugin [plugin.track.php]
+[XAseco] Load plugin [plugin.checkpoints.php]
+[XAseco] Load plugin [plugin.dedimania.php]
+[XAseco] Load plugin [plugin.rasp.php]
+[XAseco] Load plugin [plugin.rasp_jukebox.php]
+[XAseco] Load plugin [plugin.rasp_chat.php]
+[XAseco] Load plugin [plugin.rasp_karma.php]
+[XAseco] Load plugin [plugin.rasp_nextmap.php]
+[XAseco] Load plugin [plugin.rasp_nextrank.php]
+[XAseco] Load plugin [plugin.rasp_votes.php]
+[XAseco] Load plugin [plugin.chatlog.php]
+[XAseco] Load plugin [plugin.style.php]
+[XAseco] Load plugin [plugin.panels.php]
+[XAseco] Load plugin [plugin.uptodate.php]
+[XAseco] Load plugin [jfreu.plugin.php]
+[XAseco] Load plugin [mistral.idlekick.php]
+[09/19,20:39:10] Try to connect to TM dedicated server on 127.0.0.1:5001 timeout 180s
+[09/19,20:39:10] Try to authenticate with login 'SuperAdmin' and password 'pass1234'
+[09/19,20:39:10] Connection established successfully !
+[09/19,20:39:10] [RASP] Loading config file [rasp.xml]
+[09/19,20:39:10] [RASP] Checking database structure...
+[XAseco] PHP Version is 5.4.0 on WINNT
+[XAseco] Load settings [config.xml]
+[XAseco] Load admin/ops lists [adminops.xml]
+[XAseco] Load banned IPs list [bannedips.xml]
+[XAseco] Load plugins list [plugins.xml]
+[XAseco] Load plugin [plugin.rounds.php]
+[XAseco] Load plugin [chat.admin.php]
+[XAseco] Load plugin [chat.help.php]
+[XAseco] Load plugin [chat.records.php]
+[XAseco] Load plugin [chat.records2.php]
+[XAseco] Load plugin [chat.recrels.php]
+[XAseco] Load plugin [chat.dedimania.php]
+[XAseco] Load plugin [chat.players.php]
+[XAseco] Load plugin [chat.players2.php]
+[XAseco] Load plugin [chat.wins.php]
+[XAseco] Load plugin [chat.laston.php]
+[XAseco] Load plugin [chat.lastwin.php]
+[XAseco] Load plugin [chat.stats.php]
+[XAseco] Load plugin [chat.server.php]
+[XAseco] Load plugin [chat.songmod.php]
+[XAseco] Load plugin [chat.me.php]
+[XAseco] Load plugin [plugin.tmxinfo.php]
+[XAseco] Load plugin [plugin.track.php]
+[XAseco] Load plugin [plugin.checkpoints.php]
+[XAseco] Load plugin [plugin.dedimania.php]
+[XAseco] Load plugin [plugin.rasp.php]
+[XAseco] Load plugin [plugin.rasp_jukebox.php]
+[XAseco] Load plugin [plugin.rasp_chat.php]
+[XAseco] Load plugin [plugin.rasp_karma.php]
+[XAseco] Load plugin [plugin.rasp_nextmap.php]
+[XAseco] Load plugin [plugin.rasp_nextrank.php]
+[XAseco] Load plugin [plugin.rasp_votes.php]
+[XAseco] Load plugin [plugin.chatlog.php]
+[XAseco] Load plugin [plugin.style.php]
+[XAseco] Load plugin [plugin.panels.php]
+[XAseco] Load plugin [plugin.uptodate.php]
+[XAseco] Load plugin [jfreu.plugin.php]
+[XAseco] Load plugin [mistral.idlekick.php]
+[09/19,20:42:52] Try to connect to TM dedicated server on 127.0.0.1:5001 timeout 180s
+[09/19,20:42:52] Try to authenticate with login 'SuperAdmin' and password 'pass1234'
+[09/19,20:42:52] Connection established successfully !
+[09/19,20:42:52] [RASP] Loading config file [rasp.xml]
+[09/19,20:42:52] [RASP] Checking database structure...
+[XAseco] PHP Version is 5.4.0 on WINNT
+[XAseco] Load settings [config.xml]
+[XAseco] Load admin/ops lists [adminops.xml]
+[XAseco] Load banned IPs list [bannedips.xml]
+[XAseco] Load plugins list [plugins.xml]
+[XAseco] Load plugin [plugin.rounds.php]
+[XAseco] Load plugin [chat.admin.php]
+[XAseco] Load plugin [chat.help.php]
+[XAseco] Load plugin [chat.records.php]
+[XAseco] Load plugin [chat.records2.php]
+[XAseco] Load plugin [chat.recrels.php]
+[XAseco] Load plugin [chat.dedimania.php]
+[XAseco] Load plugin [chat.players.php]
+[XAseco] Load plugin [chat.players2.php]
+[XAseco] Load plugin [chat.wins.php]
+[XAseco] Load plugin [chat.laston.php]
+[XAseco] Load plugin [chat.lastwin.php]
+[XAseco] Load plugin [chat.stats.php]
+[XAseco] Load plugin [chat.server.php]
+[XAseco] Load plugin [chat.songmod.php]
+[XAseco] Load plugin [chat.me.php]
+[XAseco] Load plugin [plugin.tmxinfo.php]
+[XAseco] Load plugin [plugin.track.php]
+[XAseco] Load plugin [plugin.checkpoints.php]
+[XAseco] Load plugin [plugin.dedimania.php]
+[XAseco] Load plugin [plugin.rasp.php]
+[XAseco] Load plugin [plugin.rasp_jukebox.php]
+[XAseco] Load plugin [plugin.rasp_chat.php]
+[XAseco] Load plugin [plugin.rasp_karma.php]
+[XAseco] Load plugin [plugin.rasp_nextmap.php]
+[XAseco] Load plugin [plugin.rasp_nextrank.php]
+[XAseco] Load plugin [plugin.rasp_votes.php]
+[XAseco] Load plugin [plugin.chatlog.php]
+[XAseco] Load plugin [plugin.style.php]
+[XAseco] Load plugin [plugin.panels.php]
+[XAseco] Load plugin [plugin.uptodate.php]
+[XAseco] Load plugin [jfreu.plugin.php]
+[XAseco] Load plugin [mistral.idlekick.php]
+[09/19,20:44:46] Try to connect to TM dedicated server on 127.0.0.1:5001 timeout 180s
+[09/19,20:44:46] Try to authenticate with login 'SuperAdmin' and password 'pass1234'
+[09/19,20:44:46] Waiting for dedicated server to reach status 'Running - Play'...
+[09/19,20:44:46] Status: Running - Synchronization
+[09/19,20:44:49] Status: Running - Play
+[09/19,20:44:49] Connection established successfully !
+[09/19,20:44:49] [RASP] Loading config file [rasp.xml]
+[09/19,20:44:49] [RASP] Checking database structure...
+[PHP Warning] mysql_query(): No connection could be made because the target machine actively refused it.
+ on line 78 in file C:\TMServer\XASECO\plugins\plugin.rasp.php
+[PHP Warning] mysql_query(): A link to the server could not be established on line 78 in file C:\TMServer\XASECO\plugins\plugin.rasp.php
+[PHP Warning] mysql_query(): No connection could be made because the target machine actively refused it.
+ on line 85 in file C:\TMServer\XASECO\plugins\plugin.rasp.php
+[PHP Warning] mysql_query(): A link to the server could not be established on line 85 in file C:\TMServer\XASECO\plugins\plugin.rasp.php
+[PHP Warning] mysql_query(): No connection could be made because the target machine actively refused it.
+ on line 98 in file C:\TMServer\XASECO\plugins\plugin.rasp.php
+[PHP Warning] mysql_query(): A link to the server could not be established on line 98 in file C:\TMServer\XASECO\plugins\plugin.rasp.php
+[PHP Warning] mysql_query(): No connection could be made because the target machine actively refused it.
+ on line 102 in file C:\TMServer\XASECO\plugins\plugin.rasp.php
+[PHP Warning] mysql_query(): A link to the server could not be established on line 102 in file C:\TMServer\XASECO\plugins\plugin.rasp.php
+[PHP Warning] mysql_fetch_row() expects parameter 1 to be resource, boolean given on line 103 in file C:\TMServer\XASECO\plugins\plugin.rasp.php
+[PHP Warning] mysql_free_result() expects parameter 1 to be resource, boolean given on line 105 in file C:\TMServer\XASECO\plugins\plugin.rasp.php
+[PHP Warning] mysql_query(): No connection could be made because the target machine actively refused it.
+ on line 113 in file C:\TMServer\XASECO\plugins\plugin.rasp.php
+[PHP Warning] mysql_query(): A link to the server could not be established on line 113 in file C:\TMServer\XASECO\plugins\plugin.rasp.php
+[PHP Warning] mysql_fetch_row() expects parameter 1 to be resource, boolean given on line 114 in file C:\TMServer\XASECO\plugins\plugin.rasp.php
+[PHP Warning] mysql_free_result() expects parameter 1 to be resource, boolean given on line 116 in file C:\TMServer\XASECO\plugins\plugin.rasp.php
+[09/19,20:45:10] [RASP] Add 'rs_times' column 'trackID'...
+[PHP Warning] mysql_query(): No connection could be made because the target machine actively refused it.
+ on line 126 in file C:\TMServer\XASECO\plugins\plugin.rasp.php
+[PHP Warning] mysql_query(): A link to the server could not be established on line 126 in file C:\TMServer\XASECO\plugins\plugin.rasp.php
+[PHP Warning] mysql_query(): No connection could be made because the target machine actively refused it.
+ on line 130 in file C:\TMServer\XASECO\plugins\plugin.rasp.php
+[PHP Warning] mysql_query(): A link to the server could not be established on line 130 in file C:\TMServer\XASECO\plugins\plugin.rasp.php
+[PHP Warning] mysql_fetch_row() expects parameter 1 to be resource, boolean given on line 131 in file C:\TMServer\XASECO\plugins\plugin.rasp.php
+[PHP Warning] mysql_free_result() expects parameter 1 to be resource, boolean given on line 132 in file C:\TMServer\XASECO\plugins\plugin.rasp.php
+[09/19,20:45:18] [RASP] Alter 'rs_times' column 'ID'...
+[PHP Warning] mysql_query(): No connection could be made because the target machine actively refused it.
+ on line 135 in file C:\TMServer\XASECO\plugins\plugin.rasp.php
+[PHP Warning] mysql_query(): A link to the server could not be established on line 135 in file C:\TMServer\XASECO\plugins\plugin.rasp.php
+[PHP Warning] mysql_query(): No connection could be made because the target machine actively refused it.
+ on line 137 in file C:\TMServer\XASECO\plugins\plugin.rasp.php
+[PHP Warning] mysql_query(): A link to the server could not be established on line 137 in file C:\TMServer\XASECO\plugins\plugin.rasp.php
+[PHP Warning] mysql_fetch_row() expects parameter 1 to be resource, boolean given on line 138 in file C:\TMServer\XASECO\plugins\plugin.rasp.php
+[PHP Warning] mysql_free_result() expects parameter 1 to be resource, boolean given on line 139 in file C:\TMServer\XASECO\plugins\plugin.rasp.php
+[09/19,20:45:26] [RASP] Alter 'rs_times' column 'score'...
+[PHP Warning] mysql_query(): No connection could be made because the target machine actively refused it.
+ on line 142 in file C:\TMServer\XASECO\plugins\plugin.rasp.php
+[PHP Warning] mysql_query(): A link to the server could not be established on line 142 in file C:\TMServer\XASECO\plugins\plugin.rasp.php
+[PHP Warning] mysql_query(): No connection could be made because the target machine actively refused it.
+ on line 148 in file C:\TMServer\XASECO\plugins\plugin.rasp.php
+[PHP Warning] mysql_query(): A link to the server could not be established on line 148 in file C:\TMServer\XASECO\plugins\plugin.rasp.php
+[PHP Warning] mysql_fetch_row() expects parameter 1 to be resource, boolean given on line 149 in file C:\TMServer\XASECO\plugins\plugin.rasp.php
+[PHP Warning] mysql_free_result() expects parameter 1 to be resource, boolean given on line 153 in file C:\TMServer\XASECO\plugins\plugin.rasp.php
+[PHP Warning] mysql_query(): No connection could be made because the target machine actively refused it.
+ on line 164 in file C:\TMServer\XASECO\plugins\plugin.rasp.php
+[PHP Warning] mysql_query(): A link to the server could not be established on line 164 in file C:\TMServer\XASECO\plugins\plugin.rasp.php
+[PHP Warning] mysql_fetch_row() expects parameter 1 to be resource, boolean given on line 165 in file C:\TMServer\XASECO\plugins\plugin.rasp.php
+[PHP Warning] mysql_free_result() expects parameter 1 to be resource, boolean given on line 166 in file C:\TMServer\XASECO\plugins\plugin.rasp.php
+[09/19,20:45:38] [RASP] Alter 'rs_karma' column 'score'...
+[PHP Warning] mysql_query(): No connection could be made because the target machine actively refused it.
+ on line 169 in file C:\TMServer\XASECO\plugins\plugin.rasp.php
+[PHP Warning] mysql_query(): A link to the server could not be established on line 169 in file C:\TMServer\XASECO\plugins\plugin.rasp.php
+[XASECO Fatal Error] {RASP_ERROR} Table structure incorrect!  Use localdb/rasp.sql to correct this on line 48 in file C:\TMServer\XASECO\plugins\plugin.rasp.php
+[XAseco] PHP Version is 5.4.0 on WINNT
+[XAseco] Load settings [config.xml]
+[XAseco] Load admin/ops lists [adminops.xml]
+[XAseco] Load banned IPs list [bannedips.xml]
+[XAseco] Load plugins list [plugins.xml]
+[XAseco] Load plugin [plugin.localdatabase.php]
+[XAseco] Load plugin [plugin.rounds.php]
+[XAseco] Load plugin [chat.admin.php]
+[XAseco] Load plugin [chat.help.php]
+[XAseco] Load plugin [chat.records.php]
+[XAseco] Load plugin [chat.records2.php]
+[XAseco] Load plugin [chat.recrels.php]
+[XAseco] Load plugin [chat.dedimania.php]
+[XAseco] Load plugin [chat.players.php]
+[XAseco] Load plugin [chat.players2.php]
+[XAseco] Load plugin [chat.wins.php]
+[XAseco] Load plugin [chat.laston.php]
+[XAseco] Load plugin [chat.lastwin.php]
+[XAseco] Load plugin [chat.stats.php]
+[XAseco] Load plugin [chat.server.php]
+[XAseco] Load plugin [chat.songmod.php]
+[XAseco] Load plugin [chat.me.php]
+[XAseco] Load plugin [plugin.tmxinfo.php]
+[XAseco] Load plugin [plugin.track.php]
+[XAseco] Load plugin [plugin.checkpoints.php]
+[XAseco] Load plugin [plugin.dedimania.php]
+[XAseco] Load plugin [plugin.rasp.php]
+[XAseco] Load plugin [plugin.rasp_jukebox.php]
+[XAseco] Load plugin [plugin.rasp_chat.php]
+[XAseco] Load plugin [plugin.rasp_karma.php]
+[XAseco] Load plugin [plugin.rasp_nextmap.php]
+[XAseco] Load plugin [plugin.rasp_nextrank.php]
+[XAseco] Load plugin [plugin.rasp_votes.php]
+[XAseco] Load plugin [plugin.chatlog.php]
+[XAseco] Load plugin [plugin.style.php]
+[XAseco] Load plugin [plugin.panels.php]
+[XAseco] Load plugin [plugin.uptodate.php]
+[XAseco] Load plugin [jfreu.plugin.php]
+[XAseco] Load plugin [mistral.idlekick.php]
+[09/19,20:46:19] Try to connect to TM dedicated server on 127.0.0.1:5001 timeout 180s
+[09/19,20:46:19] Try to authenticate with login 'SuperAdmin' and password 'pass1234'
+[09/19,20:46:19] Waiting for dedicated server to reach status 'Running - Play'...
+[09/19,20:46:19] Status: Running - Synchronization
+[09/19,20:46:21] Status: Running - Play
+[09/19,20:46:21] Connection established successfully !
+[09/19,20:46:21] [LocalDB] Load config file [localdatabase.xml]
+[09/19,20:46:21] [LocalDB] Try to connect to MySQL server on 'localhost' with database 'aseco'
+[PHP Warning] mysql_connect(): No connection could be made because the target machine actively refused it.
+ on line 73 in file C:\TMServer\XASECO\plugins\plugin.localdatabase.php
+[XASECO Fatal Error] [LocalDB] Could not authenticate at MySQL server! on line 74 in file C:\TMServer\XASECO\plugins\plugin.localdatabase.php
+[XAseco] PHP Version is 5.4.0 on WINNT
+[XAseco] Load settings [config.xml]
+[XAseco] Load admin/ops lists [adminops.xml]
+[XAseco] Load banned IPs list [bannedips.xml]
+[XAseco] Load plugins list [plugins.xml]
+[XAseco] Load plugin [plugin.localdatabase.php]
+[XAseco] Load plugin [plugin.rounds.php]
+[XAseco] Load plugin [chat.admin.php]
+[XAseco] Load plugin [chat.help.php]
+[XAseco] Load plugin [chat.records.php]
+[XAseco] Load plugin [chat.records2.php]
+[XAseco] Load plugin [chat.recrels.php]
+[XAseco] Load plugin [chat.dedimania.php]
+[XAseco] Load plugin [chat.players.php]
+[XAseco] Load plugin [chat.players2.php]
+[XAseco] Load plugin [chat.wins.php]
+[XAseco] Load plugin [chat.laston.php]
+[XAseco] Load plugin [chat.lastwin.php]
+[XAseco] Load plugin [chat.stats.php]
+[XAseco] Load plugin [chat.server.php]
+[XAseco] Load plugin [chat.songmod.php]
+[XAseco] Load plugin [chat.me.php]
+[XAseco] Load plugin [plugin.tmxinfo.php]
+[XAseco] Load plugin [plugin.track.php]
+[XAseco] Load plugin [plugin.checkpoints.php]
+[XAseco] Load plugin [plugin.dedimania.php]
+[XAseco] Load plugin [plugin.rasp.php]
+[XAseco] Load plugin [plugin.rasp_jukebox.php]
+[XAseco] Load plugin [plugin.rasp_chat.php]
+[XAseco] Load plugin [plugin.rasp_karma.php]
+[XAseco] Load plugin [plugin.rasp_nextmap.php]
+[XAseco] Load plugin [plugin.rasp_nextrank.php]
+[XAseco] Load plugin [plugin.rasp_votes.php]
+[XAseco] Load plugin [plugin.chatlog.php]
+[XAseco] Load plugin [plugin.style.php]
+[XAseco] Load plugin [plugin.panels.php]
+[XAseco] Load plugin [plugin.uptodate.php]
+[XAseco] Load plugin [jfreu.plugin.php]
+[XAseco] Load plugin [mistral.idlekick.php]
+[09/19,21:39:38] Try to connect to TM dedicated server on 127.0.0.1:5001 timeout 180s
+[09/19,21:39:38] Try to authenticate with login 'SuperAdmin' and password 'pass1234'
+[09/19,21:39:38] Waiting for dedicated server to reach status 'Running - Play'...
+[09/19,21:39:38] Status: Running - Synchronization
+[09/19,21:39:41] Status: Running - Play
+[09/19,21:39:41] Connection established successfully !
+[09/19,21:39:41] [LocalDB] Load config file [localdatabase.xml]
+[09/19,21:39:41] [LocalDB] Try to connect to MySQL server on 'localhost' with database 'aseco'
+[09/19,21:39:43] [LocalDB] MySQL Server Version is 5.5.62
+[09/19,21:39:43] [LocalDB] Checking database structure...
+[09/19,21:39:43] [LocalDB] ...Structure OK!
+[09/19,21:39:43] [RASP] Loading config file [rasp.xml]
+[09/19,21:39:43] [RASP] Checking database structure...
+[09/19,21:39:43] [RASP] ...Structure OK!
+[09/19,21:39:43] [RASP] Cleaning up unused data
+[09/19,21:39:43] Load default style [styles/DarkBlur.xml]
+[09/19,21:39:43] Load default admin panel [panels/AdminBelowChat.xml]
+[09/19,21:39:43] Load default donate panel [panels/DonateBelowCPList.xml]
+[09/19,21:39:43] Load default records panel [panels/RecordsRightBottom.xml]
+[09/19,21:39:43] Load default vote panel [panels/VoteBelowChat.xml]
+[PHP Warning] include_once(includes/jfreu.config.php): failed to open stream: No such file or directory on line 182 in file C:\TMServer\XASECO\plugins\jfreu.plugin.php
+[PHP Warning] include_once(): Failed opening 'includes/jfreu.config.php' for inclusion (include_path='.;c:\php\includes') on line 182 in file C:\TMServer\XASECO\plugins\jfreu.plugin.php
+[XASECO Warning] Could not find Jfreu vips file  !
+[XASECO Warning] Could not find Jfreu bans file  !
+[XASECO Fatal Error] Could not read/parse Dedimania config file dedimania.xml ! on line 196 in file C:\TMServer\XASECO\plugins\plugin.dedimania.php
+[XAseco] PHP Version is 5.4.0 on WINNT
+[XAseco] Load settings [config.xml]
+[XAseco] Load admin/ops lists [adminops.xml]
+[XAseco] Load banned IPs list [bannedips.xml]
+[XAseco] Load plugins list [plugins.xml]
+[XAseco] Load plugin [plugin.localdatabase.php]
+[XAseco] Load plugin [plugin.rounds.php]
+[XAseco] Load plugin [chat.admin.php]
+[XAseco] Load plugin [chat.help.php]
+[XAseco] Load plugin [chat.records.php]
+[XAseco] Load plugin [chat.records2.php]
+[XAseco] Load plugin [chat.recrels.php]
+[XAseco] Load plugin [chat.dedimania.php]
+[XAseco] Load plugin [chat.players.php]
+[XAseco] Load plugin [chat.players2.php]
+[XAseco] Load plugin [chat.wins.php]
+[XAseco] Load plugin [chat.laston.php]
+[XAseco] Load plugin [chat.lastwin.php]
+[XAseco] Load plugin [chat.stats.php]
+[XAseco] Load plugin [chat.server.php]
+[XAseco] Load plugin [chat.songmod.php]
+[XAseco] Load plugin [chat.me.php]
+[XAseco] Load plugin [plugin.tmxinfo.php]
+[XAseco] Load plugin [plugin.track.php]
+[XAseco] Load plugin [plugin.checkpoints.php]
+[XAseco] Load plugin [plugin.dedimania.php]
+[XAseco] Load plugin [plugin.rasp.php]
+[XAseco] Load plugin [plugin.rasp_jukebox.php]
+[XAseco] Load plugin [plugin.rasp_chat.php]
+[XAseco] Load plugin [plugin.rasp_karma.php]
+[XAseco] Load plugin [plugin.rasp_nextmap.php]
+[XAseco] Load plugin [plugin.rasp_nextrank.php]
+[XAseco] Load plugin [plugin.rasp_votes.php]
+[XAseco] Load plugin [plugin.chatlog.php]
+[XAseco] Load plugin [plugin.style.php]
+[XAseco] Load plugin [plugin.panels.php]
+[XAseco] Load plugin [plugin.uptodate.php]
+[XAseco] Load plugin [jfreu.plugin.php]
+[XAseco] Load plugin [mistral.idlekick.php]
+[09/19,21:41:11] Try to connect to TM dedicated server on 127.0.0.1:5001 timeout 180s
+[09/19,21:41:11] Try to authenticate with login 'SuperAdmin' and password 'pass1234'
+[09/19,21:41:11] Waiting for dedicated server to reach status 'Running - Play'...
+[09/19,21:41:11] Status: Running - Synchronization
+[09/19,21:41:14] Status: Running - Play
+[09/19,21:41:14] Connection established successfully !
+[09/19,21:41:14] [LocalDB] Load config file [localdatabase.xml]
+[09/19,21:41:14] [LocalDB] Try to connect to MySQL server on 'localhost' with database 'aseco'
+[09/19,21:41:16] [LocalDB] MySQL Server Version is 5.5.62
+[09/19,21:41:16] [LocalDB] Checking database structure...
+[09/19,21:41:16] [LocalDB] ...Structure OK!
+[09/19,21:41:16] [RASP] Loading config file [rasp.xml]
+[09/19,21:41:16] [RASP] Checking database structure...
+[09/19,21:41:16] [RASP] ...Structure OK!
+[09/19,21:41:16] [RASP] Cleaning up unused data
+[09/19,21:41:16] Load default style [styles/DarkBlur.xml]
+[09/19,21:41:16] Load default admin panel [panels/AdminBelowChat.xml]
+[09/19,21:41:16] Load default donate panel [panels/DonateBelowCPList.xml]
+[09/19,21:41:16] Load default records panel [panels/RecordsRightBottom.xml]
+[09/19,21:41:16] Load default vote panel [panels/VoteBelowChat.xml]
+[PHP Warning] include_once(includes/jfreu.config.php): failed to open stream: No such file or directory on line 182 in file C:\TMServer\XASECO\plugins\jfreu.plugin.php
+[PHP Warning] include_once(): Failed opening 'includes/jfreu.config.php' for inclusion (include_path='.;c:\php\includes') on line 182 in file C:\TMServer\XASECO\plugins\jfreu.plugin.php
+[XASECO Warning] Could not find Jfreu vips file  !
+[XASECO Warning] Could not find Jfreu bans file  !
+[09/19,21:41:16] ************* (Dedimania) *************
+[09/19,21:41:16] * Dataserver connection on Dedimania ...
+[09/19,21:41:16] * Try connection on http://dedimania.net:8002/Dedimania ...
+[09/19,21:41:17] Webaccess (dedimania.net:8002/Dedimania.8002): send: deflate, receive: deflate
+[09/19,21:41:17] * Connection and status ok! (Dedimania.8002)
+  !!!
+  !!! ...with authentication warning(s): Warning in rpc.php(215): AuthWarning:
+Warning in method_helper.php(487): Delete old bad auth
+Warning in check_login_tm.php(86): Password for TMF:oblivionserver : ok!
+[09/19,21:41:17] * NEWS (Dedimania, 08/05): news
+[09/19,21:41:17] ------------- (Dedimania) -------------
+[PHP Warning] include(includes/votes.config.php): failed to open stream: No such file or directory on line 51 in file C:\TMServer\XASECO\plugins\plugin.rasp_votes.php
+[PHP Warning] include(): Failed opening 'includes/votes.config.php' for inclusion (include_path='.;c:\php\includes') on line 51 in file C:\TMServer\XASECO\plugins\plugin.rasp_votes.php
+###############################################################################
+  XASECO v1.16 running on 127.0.0.1:5001
+  Name   : Oblivion Server - oblivionserver
+  Game   : TmForever Nations - Stadium - TimeAttack
+  Version: 2.11.26 / 2011-02-21
+  Authors: Florian Schnell & Assembler Maniac
+  Re-Authored: Xymph
+###############################################################################
+Begin Round
+Begin Challenge
+[09/19,21:41:18] track changed [undefined] >> [ An' The Game Will Go On...]
+[09/19,21:41:18] currently no record on  An' The Game Will Go On...
+[09/19,21:41:23] xmlrpc_auth_cb() - response[Data][errors]
+Array
+(
+    [Code] => 200
+    [Reason] => OK
+    [Headers] => Array
+        (
+            [Command] => Array
+                (
+                    [0] => HTTP/1.1
+                    [1] => 200
+                    [2] => OK
+                )
+
+            [date] => Array
+                (
+                    [0] => Fri
+                    [1] =>  19 Sep 2025 21:41:19 GMT
+                )
+
+            [server] => Array
+                (
+                    [0] => Dedimania.8002
+                )
+
+            [accept-ranges] => Array
+                (
+                    [0] => bytes
+                )
+
+            [content-length] => Array
+                (
+                    [0] => 2314
+                )
+
+            [keep-alive] => Array
+                (
+                    [0] => timeout=600
+                    [1] =>  max=2000
+                    [timeout] => 600
+                    [max] => 2000
+                )
+
+            [connection] => Array
+                (
+                    [0] => Keep-Alive
+                )
+
+            [content-type] => Array
+                (
+                    [0] => text/xml; charset=UTF-8
+                )
+
+            [accept-encoding] => Array
+                (
+                    [0] => deflate
+                    [1] =>  gzip
+                )
+
+            [content-encoding] => Array
+                (
+                    [0] => deflate
+                )
+
+            [set-cookie] => Array
+                (
+                    [0] => PHPSESSID=fb85367f73c209c257cb19b72508b1ff; path=/
+                )
+
+        )
+
+    [Message] => <?xml version="1.0" encoding="UTF-8" ?>
+<methodResponse>
+<params>
+<param>
+<value><array><data><value><struct><member><name>faultCode</name><value><string></string></value></member><member><name>faultString</name><value><string>Unknown Error in config.php(104): mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead</string></value></member></struct></value><value><array><data><value><struct><member><name>Uid</name><value><string>IWx_gXuBsA27blu7sir7IjtDlA6</string></value></member><member><name>TotalRaces</name><value><int>5047</int></value></member><member><name>TotalPlayers</name><value><int>30296</int></value></member><member><name>TimeAttackRaces</name><value><int>0</int></value></member><member><name>TimeAttackPlayers</name><value><int>0</int></value></member><member><name>NumberOfChecks</name><value><int>7</int></value></member><member><name>ServerMaxRecords</name><value><int>30</int></value></member><member><name>Records</name><value><array><data><value><struct><member><name>Game</name><value><string>TMU</string></value></member><member><name>Login</name><value><string>brunobarros_17</string></value></member><member><name>NickName</name><value><string>$f00$fff$iMawi</string></value></member><member><name>Best</name><value><int>33600</int></value></member><member><name>Rank</name><value><int>1</int></value></member><member><name>MaxRank</name><value><int>30</int></value></member><member><name>Checks</name><value><array><data><value><int>10100</int></value><value><int>12870</int></value><value><int>20710</int></value><value><int>21790</int></value><value><int>24650</int></value><value><int>30390</int></value><value><int>33600</int></value></data></array></value></member><member><name>Vote</name><value><int>-1</int></value></member></struct></value><value><struct><member><name>Game</name><value><string>TMU</string></value></member><member><name>Login</name><value><string>lackadal</string></value></member><member><name>NickName</name><value><string>$fff$klacka</string></value></member><member><name>Best</name><value><int>33640</int></value></member><member><name>Rank</name><value><int>2</int></value></member><member><name>MaxRank</name><value><int>30</int></value></member><member><name>Checks</name><value><array><data><value><int>10080</int></value><value><int>12870</int></value><value><int>20770</int></value><value><int>21860</int></value><value><int>24680</int></value><value><int>30420</int></value><value><int>33640</int></value></data></array></value></member><member><name>Vote</name><value><int>-1</int></value></member></struct></value><value><struct><member><name>Game</name><value><string>TMU</string></value></member><member><name>Login</name><value><string>karjen93</string></value></member><member><name>NickName</name><value><string>$i$24C4W $FC6: : $FFFKarjeN</string></value></member><member><name>Best</name><value><int>33740</int></value></member><member><name>Rank</name><value><int>3</int></value></member><member><name>MaxRank</name><value><int>30</int></value></member><member><name>Checks</name><value><array><data><value><int>10160</int></value><value><int>12950</int></value><value><int>20820</int></value><value><int>21890</int></value><value><int>24730</int></value><value><int>30490</int></value><value><int>33740</int></value></data></array></value></member><member><name>Vote</name><value><int>-1</int></value></member></struct></value><value><struct><member><name>Game</name><value><string>TMU</string></value></member><member><name>Login</name><value><string>koby500</string></value></member><member><name>NickName</name><value><string>$fffKoby $3f3/$83d/</string></value></member><member><name>Best</name><value><int>33770</int></value></member><member><name>Rank</name><value><int>4</int></value></member><member><name>MaxRank</name><value><int>30</int></value></member><member><name>Checks</name><value><array><data><value><int>10170</int></value><value><int>12940</int></value><value><int>20820</int></value><value><int>21920</int></value><value><int>24740</int></value><value><int>30530</int></value><value><int>33770</int></value></data></array></value></member><member><name>Vote</name><value><int>-1</int></value></member></struct></value><value><struct><member><name>Game</name><value><string>TMU</string></value></member><member><name>Login</name><value><string>ilmerluz</string></value></member><member><name>NickName</name><value><string>$z$i$fffYbbud</string></value></member><member><name>Best</name><value><int>33790</int></value></member><member><name>Rank</name><value><int>5</int></value></member><member><name>MaxRank</name><value><int>30</int></value></member><member><name>Checks</name><value><array><data><value><int>10150</int></value><value><int>12920</int></value><value><int>20850</int></value><value><int>21950</int></value><value><int>24800</int></value><value><int>30560</int></value><value><int>33790</int></value></data></array></value></member><member><name>Vote</name><value><int>-1</int></value></member></struct></value><value><struct><member><name>Game</name><value><string>TMU</string></value></member><member><name>Login</name><value><string>perezz</string></value></member><member><name>NickName</name><value><string>$08f$999ĸитѕ$08f×$f12Rag</string></value></member><member><name>Best</name><value><int>33830</int></value></member><member><name>Rank</name><value><int>6</int></value></member><member><name>MaxRank</name><value><int>30</int></value></member><member><name>Checks</name><value><array><data><value><int>10110</int></value><value><int>12940</int></value><value><int>20830</int></value><value><int>21930</int></value><value><int>24780</int></value><value><int>30580</int></value><value><int>33830</int></value></data></array></value></member><member><name>Vote</name><value><int>-1</int></value></member></struct></value><value><struct><member><name>Game</name><value><string>TMU</string></value></member><member><name>Login</name><value><string>evilkilla</string></value></member><member><name>NickName</name><value><string>$i$fe4CP$16f'' $16f'$fff$fffext</string></value></member><member><name>Best</name><value><int>33860</int></value></member><member><name>Rank</name><value><int>7</int></value></member><member><name>MaxRank</name><value><int>30</int></value></member><member><name>Checks</name><value><array><data><value><int>10240</int></value><value><int>12990</int></value><value><int>20950</int></value><value><int>22030</int></value><value><int>24860</int></value><value><int>30620</int></value><value><int>33860</int></value></data></array></value></member><member><name>Vote</name><value><int>-1</int></value></member></struct></value><value><struct><member><name>Game</name><value><string>TMU</string></value></member><member><name>Login</name><value><string>losonsky55</string></value></member><member><name>NickName</name><value><string>$f00U$f70U$ff0D$0f0S$0ff|$i$00fSlowMo</string></value></member><member><name>Best</name><value><int>33860</int></value></member><member><name>Rank</name><value><int>8</int></value></member><member><name>MaxRank</name><value><int>30</int></value></member><member><name>Checks</name><value><array><data><value><int>10170</int></value><value><int>12970</int></value><value><int>20830</int></value><value><int>21920</int></value><value><int>24800</int></value><value><int>30610</int></value><value><int>33860</int></value></data></array></value></member><member><name>Vote</name><value><int>-1</int></value></member></struct></value><value><struct><member><name>Game</name><value><string>TMU</string></value></member><member><name>Login</name><value><string>alxb</string></value></member><member><name>NickName</name><value><string>$fff$000$iAlex</string></value></member><member><name>Best</name><value><int>33870</int></value></member><member><name>Rank</name><value><int>9</int></value></member><member><name>MaxRank</name><value><int>30</int></value></member><member><name>Checks</name><value><array><data><value><int>10190</int></value><value><int>13010</int></value><value><int>20950</int></value><value><int>22050</int></value><value><int>24860</int></value><value><int>30660</int></value><value><int>33870</int></value></data></array></value></member><member><name>Vote</name><value><int>-1</int></value></member></struct></value><value><struct><member><name>Game</name><value><string>TMU</string></value></member><member><name>Login</name><value><string>onlybrutal</string></value></member><member><name>NickName</name><value><string>$fff$i$sEri</string></value></member><member><name>Best</name><value><int>33880</int></value></member><member><name>Rank</name><value><int>10</int></value></member><member><name>MaxRank</name><value><int>30</int></value></member><member><name>Checks</name><value><array><data><value><int>10160</int></value><value><int>12930</int></value><value><int>20920</int></value><value><int>22010</int></value><value><int>24850</int></value><value><int>30620</int></value><value><int>33880</int></value></data></array></value></member><member><name>Vote</name><value><int>-1</int></value></member></struct></value><value><struct><member><name>Game</name><value><string>TMU</string></value></member><member><name>Login</name><value><string>yam</string></value></member><member><name>NickName</name><value><string>$777Begrip$f00`$fff$iYam</string></value></member><member><name>Best</name><value><int>33910</int></value></member><member><name>Rank</name><value><int>11</int></value></member><member><name>MaxRank</name><value><int>30</int></value></member><member><name>Checks</name><value><array><data><value><int>10220</int></value><value><int>12990</int></value><value><int>20880</int></value><value><int>22000</int></value><value><int>24820</int></value><value><int>30670</int></value><value><int>33910</int></value></data></array></value></member><member><name>Vote</name><value><int>-1</int></value></member></struct></value><value><struct><member><name>Game</name><value><string>TMU</string></value></member><member><name>Login</name><value><string>chillerside</string></value></member><member><name>NickName</name><value><string>$i$24C4W $FC6: : $FFFChillerSide $ff0| $999мр</string></value></member><member><name>Best</name><value><int>33920</int></value></member><member><name>Rank</name><value><int>12</int></value></member><member><name>MaxRank</name><value><int>30</int></value></member><member><name>Checks</name><value><array><data><value><int>10260</int></value><value><int>13020</int></value><value><int>20960</int></value><value><int>22070</int></value><value><int>24880</int></value><value><int>30660</int></value><value><int>33920</int></value></data></array></value></member><member><name>Vote</name><value><int>-1</int></value></member></struct></value><value><struct><member><name>Game</name><value><string>TMU</string></value></member><member><name>Login</name><value><string>sweetcorner</string></value></member><member><name>NickName</name><value><string>$i$906Јғғ$000.- $fffebo</string></value></member><member><name>Best</name><value><int>33920</int></value></member><member><name>Rank</name><value><int>13</int></value></member><member><name>MaxRank</name><value><int>30</int></value></member><member><name>Checks</name><value><array><data><value><int>10200</int></value><value><int>12970</int></value><value><int>20920</int></value><value><int>22030</int></value><value><int>24890</int></value><value><int>30700</int></value><value><int>33920</int></value></data></array></value></member><member><name>Vote</name><value><int>-1</int></value></member></struct></value><value><struct><member><name>Game</name><value><string>TMU</string></value></member><member><name>Login</name><value><string>gunsail</string></value></member><member><name>NickName</name><value><string>$i$0ddғ$fffаѕ$000т» $fffиƛҳт$000'. $0ddЈ$0ddŁ</string></value></member><member><name>Best</name><value><int>33920</int></value></member><member><name>Rank</name><value><int>14</int></value></member><member><name>MaxRank</name><value><int>30</int></value></member><member><name>Checks</name><value><array><data><value><int>10140</int></value><value><int>12920</int></value><value><int>20890</int></value><value><int>21990</int></value><value><int>24850</int></value><value><int>30660</int></value><value><int>33920</int></value></data></array></value></member><member><name>Vote</name><value><int>-1</int></value></member></struct></value><value><struct><member><name>Game</name><value><string>TMU</string></value></member><member><name>Login</name><value><string>aegiska_</string></value></member><member><name>NickName</name><value><string>$F3FAegi$F3Fska</string></value></member><member><name>Best</name><value><int>33930</int></value></member><member><name>Rank</name><value><int>15</int></value></member><member><name>MaxRank</name><value><int>30</int></value></member><member><name>Checks</name><value><array><data><value><int>10190</int></value><value><int>12960</int></value><value><int>20870</int></value><value><int>21960</int></value><value><int>24820</int></value><value><int>30680</int></value><value><int>33930</int></value></data></array></value></member><member><name>Vote</name><value><int>-1</int></value></member></struct></value><value><struct><member><name>Game</name><value><string>TMU</string></value></member><member><name>Login</name><value><string>rxa4</string></value></member><member><name>NickName</name><value><string>$i$fffap$F00Χ. $FFFrxa4$F01〤$FFFѕωα$F00 &lt;3</string></value></member><member><name>Best</name><value><int>33930</int></value></member><member><name>Rank</name><value><int>16</int></value></member><member><name>MaxRank</name><value><int>30</int></value></member><member><name>Checks</name><value><array><data><value><int>10190</int></value><value><int>12940</int></value><value><int>20970</int></value><value><int>22080</int></value><value><int>24900</int></value><value><int>30660</int></value><value><int>33930</int></value></data></array></value></member><member><name>Vote</name><value><int>-1</int></value></member></struct></value><value><struct><member><name>Game</name><value><string>TMU</string></value></member><member><name>Login</name><value><string>tretusen</string></value></member><member><name>NickName</name><value><string>$w$f1lolle</string></value></member><member><name>Best</name><value><int>33960</int></value></member><member><name>Rank</name><value><int>17</int></value></member><member><name>MaxRank</name><value><int>30</int></value></member><member><name>Checks</name><value><array><data><value><int>10280</int></value><value><int>13030</int></value><value><int>21020</int></value><value><int>22110</int></value><value><int>24970</int></value><value><int>30750</int></value><value><int>33960</int></value></data></array></value></member><member><name>Vote</name><value><int>-1</int></value></member></struct></value><value><struct><member><name>Game</name><value><string>TMU</string></value></member><member><name>Login</name><value><string>dimidrol88</string></value></member><member><name>NickName</name><value><string>$65fdimi</string></value></member><member><name>Best</name><value><int>33960</int></value></member><member><name>Rank</name><value><int>18</int></value></member><member><name>MaxRank</name><value><int>30</int></value></member><member><name>Checks</name><value><array><data><value><int>10270</int></value><value><int>13070</int></value><value><int>21010</int></value><value><int>22070</int></value><value><int>24930</int></value><value><int>30710</int></value><value><int>33960</int></value></data></array></value></member><member><name>Vote</name><value><int>-1</int></value></member></struct></value><value><struct><member><name>Game</name><value><string>TMU</string></value></member><member><name>Login</name><value><string>speed-biber</string></value></member><member><name>NickName</name><value><string>$fffBecks$f00!</string></value></member><member><name>Best</name><value><int>33970</int></value></member><member><name>Rank</name><value><int>19</int></value></member><member><name>MaxRank</name><value><int>30</int></value></member><member><name>Checks</name><value><array><data><value><int>10220</int></value><value><int>13020</int></value><value><int>20910</int></value><value><int>22000</int></value><value><int>24880</int></value><value><int>30700</int></value><value><int>33970</int></value></data></array></value></member><member><name>Vote</name><value><int>-1</int></value></member></struct></value><value><struct><member><name>Game</name><value><string>TMU</string></value></member><member><name>Login</name><value><string>adrigav</string></value></member><member><name>NickName</name><value><string>$i$f07ה$f0aѕ$f0cс $66F¬ $fffAdrien</string></value></member><member><name>Best</name><value><int>33980</int></value></member><member><name>Rank</name><value><int>20</int></value></member><member><name>MaxRank</name><value><int>30</int></value></member><member><name>Checks</name><value><array><data><value><int>10230</int></value><value><int>13030</int></value><value><int>20960</int></value><value><int>22050</int></value><value><int>24920</int></value><value><int>30740</int></value><value><int>33980</int></value></data></array></value></member><member><name>Vote</name><value><int>-1</int></value></member></struct></value><value><struct><member><name>Game</name><value><string>TMU</string></value></member><member><name>Login</name><value><string>speedcar7</string></value></member><member><name>NickName</name><value><string>$Fffgrey</string></value></member><member><name>Best</name><value><int>33980</int></value></member><member><name>Rank</name><value><int>21</int></value></member><member><name>MaxRank</name><value><int>30</int></value></member><member><name>Checks</name><value><array><data><value><int>10190</int></value><value><int>12940</int></value><value><int>20860</int></value><value><int>21960</int></value><value><int>24840</int></value><value><int>30680</int></value><value><int>33980</int></value></data></array></value></member><member><name>Vote</name><value><int>-1</int></value></member></struct></value><value><struct><member><name>Game</name><value><string>TMU</string></value></member><member><name>Login</name><value><string>sekkk06</string></value></member><member><name>NickName</name><value><string>$i$0F0и$9F0м$000|SeKooo</string></value></member><member><name>Best</name><value><int>33980</int></value></member><member><name>Rank</name><value><int>22</int></value></member><member><name>MaxRank</name><value><int>30</int></value></member><member><name>Checks</name><value><array><data><value><int>10200</int></value><value><int>12980</int></value><value><int>20910</int></value><value><int>22000</int></value><value><int>24890</int></value><value><int>30730</int></value><value><int>33980</int></value></data></array></value></member><member><name>Vote</name><value><int>-1</int></value></member></struct></value><value><struct><member><name>Game</name><value><string>TMU</string></value></member><member><name>Login</name><value><string>filipe_fonseca</string></value></member><member><name>NickName</name><value><string>$999.</string></value></member><member><name>Best</name><value><int>33990</int></value></member><member><name>Rank</name><value><int>23</int></value></member><member><name>MaxRank</name><value><int>30</int></value></member><member><name>Checks</name><value><array><data><value><int>10260</int></value><value><int>13050</int></value><value><int>20980</int></value><value><int>22080</int></value><value><int>24930</int></value><value><int>30740</int></value><value><int>33990</int></value></data></array></value></member><member><name>Vote</name><value><int>-1</int></value></member></struct></value><value><struct><member><name>Game</name><value><string>TMU</string></value></member><member><name>Login</name><value><string>kevin4o2</string></value></member><member><name>NickName</name><value><string>KeVin4o2</string></value></member><member><name>Best</name><value><int>34000</int></value></member><member><name>Rank</name><value><int>24</int></value></member><member><name>MaxRank</name><value><int>30</int></value></member><member><name>Checks</name><value><array><data><value><int>10200</int></value><value><int>12980</int></value><value><int>20990</int></value><value><int>22070</int></value><value><int>24920</int></value><value><int>30780</int></value><value><int>34000</int></value></data></array></value></member><member><name>Vote</name><value><int>-1</int></value></member></struct></value><value><struct><member><name>Game</name><value><string>TMU</string></value></member><member><name>Login</name><value><string>.whisper</string></value></member><member><name>NickName</name><value><string>$i$555w$f50h$fff1sper</string></value></member><member><name>Best</name><value><int>34000</int></value></member><member><name>Rank</name><value><int>25</int></value></member><member><name>MaxRank</name><value><int>30</int></value></member><member><name>Checks</name><value><array><data><value><int>10220</int></value><value><int>13080</int></value><value><int>21000</int></value><value><int>22080</int></value><value><int>24930</int></value><value><int>30760</int></value><value><int>34000</int></value></data></array></value></member><member><name>Vote</name><value><int>-1</int></value></member></struct></value><value><struct><member><name>Game</name><value><string>TMU</string></value></member><member><name>Login</name><value><string>ben-thegreat</string></value></member><member><name>NickName</name><value><string>$i$fffλяै$FF0 »$FFFSpirit$ff0!</string></value></member><member><name>Best</name><value><int>34020</int></value></member><member><name>Rank</name><value><int>26</int></value></member><member><name>MaxRank</name><value><int>30</int></value></member><member><name>Checks</name><value><array><data><value><int>10220</int></value><value><int>13030</int></value><value><int>21000</int></value><value><int>22110</int></value><value><int>24970</int></value><value><int>30790</int></value><value><int>34020</int></value></data></array></value></member><member><name>Vote</name><value><int>-1</int></value></member></struct></value><value><struct><member><name>Game</name><value><string>TMU</string></value></member><member><name>Login</name><value><string>xxpaiinz_twistedxx</string></value></member><member><name>NickName</name><value><string>$i$fe4CP$16f'' $16f'$fffRick$ff3.$999мр</string></value></member><member><name>Best</name><value><int>34020</int></value></member><member><name>Rank</name><value><int>27</int></value></member><member><name>MaxRank</name><value><int>30</int></value></member><member><name>Checks</name><value><array><data><value><int>10190</int></value><value><int>13000</int></value><value><int>20920</int></value><value><int>22000</int></value><value><int>24880</int></value><value><int>30710</int></value><value><int>34020</int></value></data></array></value></member><member><name>Vote</name><value><int>-1</int></value></member></struct></value><value><struct><member><name>Game</name><value><string>TMU</string></value></member><member><name>Login</name><value><string>w00000t</string></value></member><member><name>NickName</name><value><string>$fff$w$i$sw00t</string></value></member><member><name>Best</name><value><int>34030</int></value></member><member><name>Rank</name><value><int>28</int></value></member><member><name>MaxRank</name><value><int>30</int></value></member><member><name>Checks</name><value><array><data><value><int>10240</int></value><value><int>13070</int></value><value><int>21010</int></value><value><int>22090</int></value><value><int>24920</int></value><value><int>30810</int></value><value><int>34030</int></value></data></array></value></member><member><name>Vote</name><value><int>-1</int></value></member></struct></value><value><struct><member><name>Game</name><value><string>TMU</string></value></member><member><name>Login</name><value><string>murakai</string></value></member><member><name>NickName</name><value><string>$i$fffSharx...</string></value></member><member><name>Best</name><value><int>34030</int></value></member><member><name>Rank</name><value><int>29</int></value></member><member><name>MaxRank</name><value><int>30</int></value></member><member><name>Checks</name><value><array><data><value><int>10210</int></value><value><int>13030</int></value><value><int>21060</int></value><value><int>22160</int></value><value><int>25030</int></value><value><int>30820</int></value><value><int>34030</int></value></data></array></value></member><member><name>Vote</name><value><int>-1</int></value></member></struct></value><value><struct><member><name>Game</name><value><string>TMU</string></value></member><member><name>Login</name><value><string>k1ng0d</string></value></member><member><name>NickName</name><value><string>$i$fffKG</string></value></member><member><name>Best</name><value><int>34040</int></value></member><member><name>Rank</name><value><int>30</int></value></member><member><name>MaxRank</name><value><int>30</int></value></member><member><name>Checks</name><value><array><data><value><int>10300</int></value><value><int>13070</int></value><value><int>21010</int></value><value><int>22120</int></value><value><int>24990</int></value><value><int>30790</int></value><value><int>34040</int></value></data></array></value></member><member><name>Vote</name><value><int>-1</int></value></member></struct></value></data></array></value></member></struct></value></data></array></value><value><array><data><value><struct><member><name>globalTTR</name><value><double>0.099942</double></value></member><member><name>methods</name><value><array><data><value><struct><member><name>methodName</name><value><string>dedimania.Authenticate</string></value></member><member><name>errors</name><value><string>Unknown Error in config.php(104): mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead</string></value></member><member><name>TTR</name><value><double>0.002279</double></value></member></struct></value><value><struct><member><name>methodName</name><value><string>dedimania.CurrentChallenge</string></value></member><member><name>errors</name><value><string></string></value></member><member><name>TTR</name><value><double>0.095675</double></value></member></struct></value></data></array></value></member></struct></value></data></array></value></data></array></value>
+</param>
+</params>
+</methodResponse>
+    [Data] => Array
+        (
+            [methodResponse] => dedimania.Authenticate
+            [params] => Array
+                (
+                )
+
+            [errors] => Unknown Error in config.php(104): mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead
+            [TTR] => 0.002279
+            [globalTTR] => 0.099942
+        )
+
+)
+
+[09/19,21:41:40] << player 250 joined the game [ob1ivion : $60FѺ$71Eѣ$92CŁ$A3Bİ$B3Aѷ$C49ī$E57ø$F66Ӥ : United States of America : 4325086 : 172.20.95.3]
+[09/19,21:42:48] >> player 250 left the game [ob1ivion : $60FѺ$71Eѣ$92CŁ$A3Bİ$B3Aѷ$C49ī$E57ø$F66Ӥ : 00:01:08]
+[09/19,21:43:02] << player 249 joined the game [ob1ivion : $60FѺ$71Eѣ$92CŁ$A3Bİ$B3Aѷ$C49ī$E57ø$F66Ӥ : United States of America : 4325086 : 172.20.95.3]
+[09/19,21:43:15] player ob1ivion used chat command "/helpdedi "
+[09/19,21:47:04] [LocalDB] player ob1ivion finished with 38490 and took the 1. LR place!
+[09/19,21:47:44] [LocalDB] player ob1ivion finished with 37600 and took the 1. LR place!
+[09/19,21:49:42] [LocalDB] player ob1ivion finished with 37000 and took the 1. LR place!
+End Round
+End Challenge
+[09/19,22:11:16] [RASP] Calculating ranks...
+[09/19,22:11:16] [RASP] ...Done!
+Begin Challenge
+[09/19,22:11:37] track changed [ An' The Game Will Go On...] >> [ An' The Game Will Go On...]
+[09/19,22:11:37] current record on  An' The Game Will Go On... is 0:37.00 and held by ѺѣŁİѷīøӤ
+Begin Round
+[XAseco] PHP Version is 5.4.0 on WINNT
+[XAseco] Load settings [config.xml]
+[XAseco] Load admin/ops lists [adminops.xml]
+[XAseco] Load banned IPs list [bannedips.xml]
+[XAseco] Load plugins list [plugins.xml]
+[XAseco] Load plugin [plugin.localdatabase.php]
+[XAseco] Load plugin [plugin.rounds.php]
+[XAseco] Load plugin [chat.admin.php]
+[XAseco] Load plugin [chat.help.php]
+[XAseco] Load plugin [chat.records.php]
+[XAseco] Load plugin [chat.records2.php]
+[XAseco] Load plugin [chat.recrels.php]
+[XAseco] Load plugin [chat.dedimania.php]
+[XAseco] Load plugin [chat.players.php]
+[XAseco] Load plugin [chat.players2.php]
+[XAseco] Load plugin [chat.wins.php]
+[XAseco] Load plugin [chat.laston.php]
+[XAseco] Load plugin [chat.lastwin.php]
+[XAseco] Load plugin [chat.stats.php]
+[XAseco] Load plugin [chat.server.php]
+[XAseco] Load plugin [chat.songmod.php]
+[XAseco] Load plugin [chat.me.php]
+[XAseco] Load plugin [plugin.tmxinfo.php]
+[XAseco] Load plugin [plugin.track.php]
+[XAseco] Load plugin [plugin.checkpoints.php]
+[XAseco] Load plugin [plugin.dedimania.php]
+[XAseco] Load plugin [plugin.rasp.php]
+[XAseco] Load plugin [plugin.rasp_jukebox.php]
+[XAseco] Load plugin [plugin.rasp_chat.php]
+[XAseco] Load plugin [plugin.rasp_karma.php]
+[XAseco] Load plugin [plugin.rasp_nextmap.php]
+[XAseco] Load plugin [plugin.rasp_nextrank.php]
+[XAseco] Load plugin [plugin.rasp_votes.php]
+[XAseco] Load plugin [plugin.chatlog.php]
+[XAseco] Load plugin [plugin.style.php]
+[XAseco] Load plugin [plugin.panels.php]
+[XAseco] Load plugin [plugin.uptodate.php]
+[XAseco] Load plugin [jfreu.plugin.php]
+[XAseco] Load plugin [mistral.idlekick.php]
+[09/20,20:44:38] Try to connect to TM dedicated server on 127.0.0.1:5001 timeout 180s
+[09/20,20:45:20] Try to authenticate with login 'SuperAdmin' and password 'pass1234'
+[XASECO Warning] [-1000] Authenticate - Password incorrect.
+[XASECO Fatal Error] Connection could not be established ! on line 714 in file C:\TMServer\XASECO\aseco.php
+[XAseco] PHP Version is 5.4.0 on WINNT
+[XAseco] Load settings [config.xml]
+[XAseco] Load admin/ops lists [adminops.xml]
+[XAseco] Load banned IPs list [bannedips.xml]
+[XAseco] Load plugins list [plugins.xml]
+[XAseco] Load plugin [plugin.localdatabase.php]
+[XAseco] Load plugin [plugin.rounds.php]
+[XAseco] Load plugin [chat.admin.php]
+[XAseco] Load plugin [chat.help.php]
+[XAseco] Load plugin [chat.records.php]
+[XAseco] Load plugin [chat.records2.php]
+[XAseco] Load plugin [chat.recrels.php]
+[XAseco] Load plugin [chat.dedimania.php]
+[XAseco] Load plugin [chat.players.php]
+[XAseco] Load plugin [chat.players2.php]
+[XAseco] Load plugin [chat.wins.php]
+[XAseco] Load plugin [chat.laston.php]
+[XAseco] Load plugin [chat.lastwin.php]
+[XAseco] Load plugin [chat.stats.php]
+[XAseco] Load plugin [chat.server.php]
+[XAseco] Load plugin [chat.songmod.php]
+[XAseco] Load plugin [chat.me.php]
+[XAseco] Load plugin [plugin.tmxinfo.php]
+[XAseco] Load plugin [plugin.track.php]
+[XAseco] Load plugin [plugin.checkpoints.php]
+[XAseco] Load plugin [plugin.dedimania.php]
+[XAseco] Load plugin [plugin.rasp.php]
+[XAseco] Load plugin [plugin.rasp_jukebox.php]
+[XAseco] Load plugin [plugin.rasp_chat.php]
+[XAseco] Load plugin [plugin.rasp_karma.php]
+[XAseco] Load plugin [plugin.rasp_nextmap.php]
+[XAseco] Load plugin [plugin.rasp_nextrank.php]
+[XAseco] Load plugin [plugin.rasp_votes.php]
+[XAseco] Load plugin [plugin.chatlog.php]
+[XAseco] Load plugin [plugin.style.php]
+[XAseco] Load plugin [plugin.panels.php]
+[XAseco] Load plugin [plugin.uptodate.php]
+[XAseco] Load plugin [jfreu.plugin.php]
+[XAseco] Load plugin [mistral.idlekick.php]
+[09/20,20:45:44] Try to connect to TM dedicated server on 127.0.0.1:5001 timeout 180s
+[09/20,20:45:44] Try to authenticate with login 'SuperAdmin' and password 'pass1234'
+[XASECO Warning] [-1000] Authenticate - Password incorrect.
+[XASECO Fatal Error] Connection could not be established ! on line 714 in file C:\TMServer\XASECO\aseco.php
+[XAseco] PHP Version is 5.4.0 on WINNT
+[XAseco] Load settings [config.xml]
+[XAseco] Load admin/ops lists [adminops.xml]
+[XAseco] Load banned IPs list [bannedips.xml]
+[XAseco] Load plugins list [plugins.xml]
+[XAseco] Load plugin [plugin.localdatabase.php]
+[XAseco] Load plugin [plugin.rounds.php]
+[XAseco] Load plugin [chat.admin.php]
+[XAseco] Load plugin [chat.help.php]
+[XAseco] Load plugin [chat.records.php]
+[XAseco] Load plugin [chat.records2.php]
+[XAseco] Load plugin [chat.recrels.php]
+[XAseco] Load plugin [chat.dedimania.php]
+[XAseco] Load plugin [chat.players.php]
+[XAseco] Load plugin [chat.players2.php]
+[XAseco] Load plugin [chat.wins.php]
+[XAseco] Load plugin [chat.laston.php]
+[XAseco] Load plugin [chat.lastwin.php]
+[XAseco] Load plugin [chat.stats.php]
+[XAseco] Load plugin [chat.server.php]
+[XAseco] Load plugin [chat.songmod.php]
+[XAseco] Load plugin [chat.me.php]
+[XAseco] Load plugin [plugin.tmxinfo.php]
+[XAseco] Load plugin [plugin.track.php]
+[XAseco] Load plugin [plugin.checkpoints.php]
+[XAseco] Load plugin [plugin.dedimania.php]
+[XAseco] Load plugin [plugin.rasp.php]
+[XAseco] Load plugin [plugin.rasp_jukebox.php]
+[XAseco] Load plugin [plugin.rasp_chat.php]
+[XAseco] Load plugin [plugin.rasp_karma.php]
+[XAseco] Load plugin [plugin.rasp_nextmap.php]
+[XAseco] Load plugin [plugin.rasp_nextrank.php]
+[XAseco] Load plugin [plugin.rasp_votes.php]
+[XAseco] Load plugin [plugin.chatlog.php]
+[XAseco] Load plugin [plugin.style.php]
+[XAseco] Load plugin [plugin.panels.php]
+[XAseco] Load plugin [plugin.uptodate.php]
+[XAseco] Load plugin [jfreu.plugin.php]
+[XAseco] Load plugin [mistral.idlekick.php]
+[09/20,20:46:23] Try to connect to TM dedicated server on 127.0.0.1:5001 timeout 180s
+[09/20,20:46:23] Try to authenticate with login 'SuperAdmin' and password 'pass1234'
+[XASECO Warning] [-1000] Authenticate - Password incorrect.
+[XASECO Fatal Error] Connection could not be established ! on line 714 in file C:\TMServer\XASECO\aseco.php
+[XAseco] PHP Version is 5.4.0 on WINNT
+[XAseco] Load settings [config.xml]
+[XAseco] Load admin/ops lists [adminops.xml]
+[XAseco] Load banned IPs list [bannedips.xml]
+[XAseco] Load plugins list [plugins.xml]
+[XAseco] Load plugin [plugin.localdatabase.php]
+[XAseco] Load plugin [plugin.rounds.php]
+[XAseco] Load plugin [chat.admin.php]
+[XAseco] Load plugin [chat.help.php]
+[XAseco] Load plugin [chat.records.php]
+[XAseco] Load plugin [chat.records2.php]
+[XAseco] Load plugin [chat.recrels.php]
+[XAseco] Load plugin [chat.dedimania.php]
+[XAseco] Load plugin [chat.players.php]
+[XAseco] Load plugin [chat.players2.php]
+[XAseco] Load plugin [chat.wins.php]
+[XAseco] Load plugin [chat.laston.php]
+[XAseco] Load plugin [chat.lastwin.php]
+[XAseco] Load plugin [chat.stats.php]
+[XAseco] Load plugin [chat.server.php]
+[XAseco] Load plugin [chat.songmod.php]
+[XAseco] Load plugin [chat.me.php]
+[XAseco] Load plugin [plugin.tmxinfo.php]
+[XAseco] Load plugin [plugin.track.php]
+[XAseco] Load plugin [plugin.checkpoints.php]
+[XAseco] Load plugin [plugin.dedimania.php]
+[XAseco] Load plugin [plugin.rasp.php]
+[XAseco] Load plugin [plugin.rasp_jukebox.php]
+[XAseco] Load plugin [plugin.rasp_chat.php]
+[XAseco] Load plugin [plugin.rasp_karma.php]
+[XAseco] Load plugin [plugin.rasp_nextmap.php]
+[XAseco] Load plugin [plugin.rasp_nextrank.php]
+[XAseco] Load plugin [plugin.rasp_votes.php]
+[XAseco] Load plugin [plugin.chatlog.php]
+[XAseco] Load plugin [plugin.style.php]
+[XAseco] Load plugin [plugin.panels.php]
+[XAseco] Load plugin [plugin.uptodate.php]
+[XAseco] Load plugin [jfreu.plugin.php]
+[XAseco] Load plugin [mistral.idlekick.php]
+[09/20,20:48:43] Try to connect to TM dedicated server on 127.0.0.1:5000 timeout 180s
+[09/20,20:48:43] Try to authenticate with login 'SuperAdmin' and password 'pass1234'
+[09/20,20:48:43] Waiting for dedicated server to reach status 'Running - Play'...
+[09/20,20:48:43] Status: Running - Synchronization
+[09/20,20:48:45] Status: Running - Play
+[09/20,20:48:45] Connection established successfully !
+[09/20,20:48:45] [LocalDB] Load config file [localdatabase.xml]
+[09/20,20:48:45] [LocalDB] Try to connect to MySQL server on 'localhost' with database 'aseco'
+[09/20,20:48:47] [LocalDB] MySQL Server Version is 5.5.62
+[09/20,20:48:47] [LocalDB] Checking database structure...
+[09/20,20:48:47] [LocalDB] ...Structure OK!
+[09/20,20:48:47] [RASP] Loading config file [rasp.xml]
+[09/20,20:48:47] [RASP] Checking database structure...
+[09/20,20:48:47] [RASP] ...Structure OK!
+[09/20,20:48:47] [RASP] Cleaning up unused data
+[09/20,20:48:47] Load default style [styles/DarkBlur.xml]
+[09/20,20:48:47] Load default admin panel [panels/AdminBelowChat.xml]
+[09/20,20:48:47] Load default donate panel [panels/DonateBelowCPList.xml]
+[09/20,20:48:47] Load default records panel [panels/RecordsRightBottom.xml]
+[09/20,20:48:47] Load default vote panel [panels/VoteBelowChat.xml]
+[PHP Warning] include_once(includes/jfreu.config.php): failed to open stream: No such file or directory on line 182 in file C:\TMServer\XASECO\plugins\jfreu.plugin.php
+[PHP Warning] include_once(): Failed opening 'includes/jfreu.config.php' for inclusion (include_path='.;c:\php\includes') on line 182 in file C:\TMServer\XASECO\plugins\jfreu.plugin.php
+[XASECO Warning] Could not find Jfreu vips file  !
+[XASECO Warning] Could not find Jfreu bans file  !
+[09/20,20:48:47] ************* (Dedimania) *************
+[09/20,20:48:47] * Dataserver connection on Dedimania ...
+[09/20,20:48:47] * Try connection on http://dedimania.net:8002/Dedimania ...
+[09/20,20:48:48] Webaccess (dedimania.net:8002/Dedimania.8002): send: deflate, receive: deflate
+[09/20,20:48:48] * Connection and status ok! (Dedimania.8002)
+[09/20,20:48:48] * NEWS (Dedimania, 08/05): news
+[09/20,20:48:48] ------------- (Dedimania) -------------
+[PHP Warning] include(includes/votes.config.php): failed to open stream: No such file or directory on line 51 in file C:\TMServer\XASECO\plugins\plugin.rasp_votes.php
+[PHP Warning] include(): Failed opening 'includes/votes.config.php' for inclusion (include_path='.;c:\php\includes') on line 51 in file C:\TMServer\XASECO\plugins\plugin.rasp_votes.php
+###############################################################################
+  XASECO v1.16 running on 127.0.0.1:5000
+  Name   : Oblivion Server - oblivionserver
+  Game   : TmForever Nations - Stadium - TimeAttack
+  Version: 2.11.26 / 2011-02-21
+  Authors: Florian Schnell & Assembler Maniac
+  Re-Authored: Xymph
+###############################################################################
+Begin Round
+Begin Challenge
+[09/20,20:48:48] track changed [undefined] >> [ An' The Game Will Go On...]
+[09/20,20:48:48] current record on  An' The Game Will Go On... is 0:37.00 and held by ѺѣŁİѷīøӤ
+[09/20,20:50:25] << player 250 joined the game [ob1ivion : $60FѺ$71Eѣ$92CŁ$A3Bİ$B3Aѷ$C49ī$E57ø$F66Ӥ : United States of America : 4325094 : 172.20.95.3]
+[09/20,20:50:46] player ob1ivion used chat command "/help "
+[09/20,20:51:15] player ob1ivion used chat command "/list "
+[09/20,20:51:23] player ob1ivion clicked command "/jukebox 2"
+[09/20,20:54:26] [LocalDB] player ob1ivion finished with 36580 and took the 1. LR place!
+End Round
+End Challenge
+[09/20,21:18:48] [RASP] Calculating ranks...
+[09/20,21:18:48] [RASP] ...Done!
+{RASP Jukebox} Setting Next Challenge to A Snake on Fire, requested by ѺѣŁİѷīøӤ
+Begin Challenge
+[09/20,21:19:08] track changed [ An' The Game Will Go On...] >> [A Snake on Fire]
+[09/20,21:19:08] currently no record on A Snake on Fire
+Begin Round
+[09/20,21:21:41] [LocalDB] player ob1ivion finished with 44600 and took the 1. LR place!
+[09/20,21:36:22] [LocalDB] player ob1ivion finished with 43900 and took the 1. LR place!
+[09/20,21:37:02] player ob1ivion used chat command "/help "
+[09/20,21:38:28] player ob1ivion used chat command "/admin restart"
+[09/20,21:38:28] ob1ivion tried to use admin chat command (no permission!): restart 
+[09/20,21:45:02] >> player 250 left the game [ob1ivion : $60FѺ$71Eѣ$92CŁ$A3Bİ$B3Aѷ$C49ī$E57ø$F66Ӥ : 00:54:37]
+[XAseco] PHP Version is 5.4.0 on WINNT
+[XAseco] Load settings [config.xml]
+[XAseco] Load admin/ops lists [adminops.xml]
+[XAseco] Load banned IPs list [bannedips.xml]
+[XAseco] Load plugins list [plugins.xml]
+[XAseco] Load plugin [plugin.localdatabase.php]
+[XAseco] Load plugin [plugin.rounds.php]
+[XAseco] Load plugin [chat.admin.php]
+[XAseco] Load plugin [chat.help.php]
+[XAseco] Load plugin [chat.records.php]
+[XAseco] Load plugin [chat.records2.php]
+[XAseco] Load plugin [chat.recrels.php]
+[XAseco] Load plugin [chat.dedimania.php]
+[XAseco] Load plugin [chat.players.php]
+[XAseco] Load plugin [chat.players2.php]
+[XAseco] Load plugin [chat.wins.php]
+[XAseco] Load plugin [chat.laston.php]
+[XAseco] Load plugin [chat.lastwin.php]
+[XAseco] Load plugin [chat.stats.php]
+[XAseco] Load plugin [chat.server.php]
+[XAseco] Load plugin [chat.songmod.php]
+[XAseco] Load plugin [chat.me.php]
+[XAseco] Load plugin [plugin.tmxinfo.php]
+[XAseco] Load plugin [plugin.track.php]
+[XAseco] Load plugin [plugin.checkpoints.php]
+[XAseco] Load plugin [plugin.dedimania.php]
+[XAseco] Load plugin [plugin.rasp.php]
+[XAseco] Load plugin [plugin.rasp_jukebox.php]
+[XAseco] Load plugin [plugin.rasp_chat.php]
+[XAseco] Load plugin [plugin.rasp_karma.php]
+[XAseco] Load plugin [plugin.rasp_nextmap.php]
+[XAseco] Load plugin [plugin.rasp_nextrank.php]
+[XAseco] Load plugin [plugin.rasp_votes.php]
+[XAseco] Load plugin [plugin.chatlog.php]
+[XAseco] Load plugin [plugin.style.php]
+[XAseco] Load plugin [plugin.panels.php]
+[XAseco] Load plugin [plugin.uptodate.php]
+[XAseco] Load plugin [jfreu.plugin.php]
+[XAseco] Load plugin [mistral.idlekick.php]
+[09/21,20:33:32] Try to connect to TM dedicated server on 127.0.0.1:5000 timeout 180s
+[09/21,20:33:32] Try to authenticate with login 'SuperAdmin' and password 'pass1234'
+[09/21,20:33:32] Waiting for dedicated server to reach status 'Running - Play'...
+[09/21,20:33:32] Status: Running - Synchronization
+[09/21,20:33:34] Status: Running - Play
+[09/21,20:33:34] Connection established successfully !
+[09/21,20:33:34] [LocalDB] Load config file [localdatabase.xml]
+[09/21,20:33:34] [LocalDB] Try to connect to MySQL server on 'localhost' with database 'aseco'
+[09/21,20:33:36] [LocalDB] MySQL Server Version is 5.5.62
+[09/21,20:33:36] [LocalDB] Checking database structure...
+[09/21,20:33:36] [LocalDB] ...Structure OK!
+[09/21,20:33:36] [RASP] Loading config file [rasp.xml]
+[09/21,20:33:36] [RASP] Checking database structure...
+[09/21,20:33:36] [RASP] ...Structure OK!
+[09/21,20:33:36] [RASP] Cleaning up unused data
+[09/21,20:33:36] Load default style [styles/DarkBlur.xml]
+[09/21,20:33:36] Load default admin panel [panels/AdminBelowChat.xml]
+[09/21,20:33:36] Load default donate panel [panels/DonateBelowCPList.xml]
+[09/21,20:33:37] Load default records panel [panels/RecordsRightBottom.xml]
+[09/21,20:33:37] Load default vote panel [panels/VoteBelowChat.xml]
+[PHP Warning] include_once(includes/jfreu.config.php): failed to open stream: No such file or directory on line 182 in file C:\TMServer\XASECO\plugins\jfreu.plugin.php
+[PHP Warning] include_once(): Failed opening 'includes/jfreu.config.php' for inclusion (include_path='.;c:\php\includes') on line 182 in file C:\TMServer\XASECO\plugins\jfreu.plugin.php
+[XASECO Warning] Could not find Jfreu vips file  !
+[XASECO Warning] Could not find Jfreu bans file  !
+[09/21,20:33:37] ************* (Dedimania) *************
+[09/21,20:33:37] * Dataserver connection on Dedimania ...
+[09/21,20:33:37] * Try connection on http://dedimania.net:8002/Dedimania ...
+[09/21,20:33:37] Webaccess (dedimania.net:8002/Dedimania.8017): send: deflate, receive: deflate
+[09/21,20:33:37] * Connection and status ok! (Dedimania.8017)
+[09/21,20:33:37] * NEWS (Dedimania, 08/05): news
+[09/21,20:33:37] ------------- (Dedimania) -------------
+[PHP Warning] include(includes/votes.config.php): failed to open stream: No such file or directory on line 51 in file C:\TMServer\XASECO\plugins\plugin.rasp_votes.php
+[PHP Warning] include(): Failed opening 'includes/votes.config.php' for inclusion (include_path='.;c:\php\includes') on line 51 in file C:\TMServer\XASECO\plugins\plugin.rasp_votes.php
+###############################################################################
+  XASECO v1.16 running on 127.0.0.1:5000
+  Name   : Oblivion Server - oblivionserver
+  Game   : TmForever Nations - Stadium - TimeAttack
+  Version: 2.11.26 / 2011-02-21
+  Authors: Florian Schnell & Assembler Maniac
+  Re-Authored: Xymph
+###############################################################################
+Begin Round
+Begin Challenge
+[09/21,20:33:38] track changed [undefined] >> [ An' The Game Will Go On...]
+[09/21,20:33:38] current record on  An' The Game Will Go On... is 0:36.58 and held by ѺѣŁİѷīøӤ
+[09/21,20:36:10] << player 250 joined the game [ob1ivion : $60FѺ$71Eѣ$92CŁ$A3Bİ$B3Aѷ$C49ī$E57ø$F66Ӥ : United States of America : 4325094 : 172.20.95.3]
+[09/21,20:37:53] >> player 250 left the game [ob1ivion : $60FѺ$71Eѣ$92CŁ$A3Bİ$B3Aѷ$C49ī$E57ø$F66Ӥ : 00:01:43]
+[09/21,20:38:02] << player 249 joined the game [ob1ivion : $60FѺ$71Eѣ$92CŁ$A3Bİ$B3Aѷ$C49ī$E57ø$F66Ӥ : United States of America : 4325094 : 172.20.95.3]
+[09/21,20:39:31] [LocalDB] player ob1ivion finished with 36330 and took the 1. LR place!
+[09/21,20:41:36] [LocalDB] player ob1ivion finished with 36220 and took the 1. LR place!
+[09/21,20:42:36] [LocalDB] player ob1ivion finished with 35520 and took the 1. LR place!
+[09/21,20:44:33] player ob1ivion used chat command "/list "
+[09/21,20:44:37] player ob1ivion clicked command "/jukebox 5"
+[09/21,21:00:32] player ob1ivion used chat command "/skip "
+[09/21,21:00:40] player ob1ivion used chat command "/help "
+[09/21,21:01:15] player ob1ivion used chat command "/skip "
+[09/21,21:01:32] player ob1ivion used chat command "/nextmap "
+End Round
+End Challenge
+[09/21,21:03:37] [RASP] Calculating ranks...
+[09/21,21:03:37] [RASP] ...Done!
+{RASP Jukebox} Setting Next Challenge to .Numb3rs., requested by ѺѣŁİѷīøӤ
+Begin Challenge
+[09/21,21:03:57] track changed [ An' The Game Will Go On...] >> [.Numb3rs.]
+[09/21,21:03:57] currently no record on .Numb3rs.
+Begin Round
+[09/21,21:15:25] >> player 249 left the game [ob1ivion : $60FѺ$71Eѣ$92CŁ$A3Bİ$B3Aѷ$C49ī$E57ø$F66Ӥ : 00:37:23]
+[XAseco] PHP Version is 5.4.0 on WINNT
+[XAseco] Load settings [config.xml]
+[XAseco] Load admin/ops lists [adminops.xml]
+[XAseco] Load banned IPs list [bannedips.xml]
+[XAseco] Load plugins list [plugins.xml]
+[XAseco] Load plugin [plugin.localdatabase.php]
+[XAseco] Load plugin [plugin.rounds.php]
+[XAseco] Load plugin [chat.admin.php]
+[XAseco] Load plugin [chat.help.php]
+[XAseco] Load plugin [chat.records.php]
+[XAseco] Load plugin [chat.records2.php]
+[XAseco] Load plugin [chat.recrels.php]
+[XAseco] Load plugin [chat.dedimania.php]
+[XAseco] Load plugin [chat.players.php]
+[XAseco] Load plugin [chat.players2.php]
+[XAseco] Load plugin [chat.wins.php]
+[XAseco] Load plugin [chat.laston.php]
+[XAseco] Load plugin [chat.lastwin.php]
+[XAseco] Load plugin [chat.stats.php]
+[XAseco] Load plugin [chat.server.php]
+[XAseco] Load plugin [chat.songmod.php]
+[XAseco] Load plugin [chat.me.php]
+[XAseco] Load plugin [plugin.tmxinfo.php]
+[XAseco] Load plugin [plugin.track.php]
+[XAseco] Load plugin [plugin.checkpoints.php]
+[XAseco] Load plugin [plugin.dedimania.php]
+[XAseco] Load plugin [plugin.rasp.php]
+[XAseco] Load plugin [plugin.rasp_jukebox.php]
+[XAseco] Load plugin [plugin.rasp_chat.php]
+[XAseco] Load plugin [plugin.rasp_karma.php]
+[XAseco] Load plugin [plugin.rasp_nextmap.php]
+[XAseco] Load plugin [plugin.rasp_nextrank.php]
+[XAseco] Load plugin [plugin.rasp_votes.php]
+[XAseco] Load plugin [plugin.chatlog.php]
+[XAseco] Load plugin [plugin.style.php]
+[XAseco] Load plugin [plugin.panels.php]
+[XAseco] Load plugin [plugin.uptodate.php]
+[XAseco] Load plugin [jfreu.plugin.php]
+[XAseco] Load plugin [mistral.idlekick.php]
+[03/02,21:14:35] Try to connect to TM dedicated server on 127.0.0.1:5000 timeout 180s
+[03/02,21:14:35] Try to authenticate with login 'SuperAdmin' and password 'pass1234'
+[03/02,21:14:35] Waiting for dedicated server to reach status 'Running - Play'...
+[03/02,21:14:35] Status: Running - Synchronization
+[03/02,21:14:36] Status: Running - Play
+[03/02,21:14:36] Connection established successfully !
+[03/02,21:14:36] [LocalDB] Load config file [localdatabase.xml]
+[03/02,21:14:36] [LocalDB] Try to connect to MySQL server on 'localhost' with database 'aseco'
+[PHP Warning] mysql_connect(): No connection could be made because the target machine actively refused it.
+ on line 73 in file C:\TMServer\XASECO\plugins\plugin.localdatabase.php
+[XASECO Fatal Error] [LocalDB] Could not authenticate at MySQL server! on line 74 in file C:\TMServer\XASECO\plugins\plugin.localdatabase.php
+[XAseco] PHP Version is 5.4.0 on WINNT
+[XAseco] Load settings [config.xml]
+[XAseco] Load admin/ops lists [adminops.xml]
+[XAseco] Load banned IPs list [bannedips.xml]
+[XAseco] Load plugins list [plugins.xml]
+[XAseco] Load plugin [plugin.localdatabase.php]
+[XAseco] Load plugin [plugin.rounds.php]
+[XAseco] Load plugin [chat.admin.php]
+[XAseco] Load plugin [chat.help.php]
+[XAseco] Load plugin [chat.records.php]
+[XAseco] Load plugin [chat.records2.php]
+[XAseco] Load plugin [chat.recrels.php]
+[XAseco] Load plugin [chat.dedimania.php]
+[XAseco] Load plugin [chat.players.php]
+[XAseco] Load plugin [chat.players2.php]
+[XAseco] Load plugin [chat.wins.php]
+[XAseco] Load plugin [chat.laston.php]
+[XAseco] Load plugin [chat.lastwin.php]
+[XAseco] Load plugin [chat.stats.php]
+[XAseco] Load plugin [chat.server.php]
+[XAseco] Load plugin [chat.songmod.php]
+[XAseco] Load plugin [chat.me.php]
+[XAseco] Load plugin [plugin.tmxinfo.php]
+[XAseco] Load plugin [plugin.track.php]
+[XAseco] Load plugin [plugin.checkpoints.php]
+[XAseco] Load plugin [plugin.dedimania.php]
+[XAseco] Load plugin [plugin.rasp.php]
+[XAseco] Load plugin [plugin.rasp_jukebox.php]
+[XAseco] Load plugin [plugin.rasp_chat.php]
+[XAseco] Load plugin [plugin.rasp_karma.php]
+[XAseco] Load plugin [plugin.rasp_nextmap.php]
+[XAseco] Load plugin [plugin.rasp_nextrank.php]
+[XAseco] Load plugin [plugin.rasp_votes.php]
+[XAseco] Load plugin [plugin.chatlog.php]
+[XAseco] Load plugin [plugin.style.php]
+[XAseco] Load plugin [plugin.panels.php]
+[XAseco] Load plugin [plugin.uptodate.php]
+[XAseco] Load plugin [jfreu.plugin.php]
+[XAseco] Load plugin [mistral.idlekick.php]
+[03/02,21:23:42] Try to connect to TM dedicated server on 127.0.0.1:5000 timeout 180s
+[03/02,21:23:42] Try to authenticate with login 'SuperAdmin' and password 'pass1234'
+[03/02,21:23:42] Waiting for dedicated server to reach status 'Running - Play'...
+[03/02,21:23:42] Status: Running - Synchronization
+[03/02,21:23:45] Status: Running - Play
+[03/02,21:23:45] Connection established successfully !
+[03/02,21:23:45] [LocalDB] Load config file [localdatabase.xml]
+[03/02,21:23:45] [LocalDB] Try to connect to MySQL server on 'localhost' with database 'aseco'
+[03/02,21:23:47] [LocalDB] MySQL Server Version is 5.5.62
+[03/02,21:23:47] [LocalDB] Checking database structure...
+[03/02,21:23:47] [LocalDB] ...Structure OK!
+[03/02,21:23:47] [RASP] Loading config file [rasp.xml]
+[03/02,21:23:47] [RASP] Checking database structure...
+[03/02,21:23:47] [RASP] ...Structure OK!
+[03/02,21:23:47] [RASP] Cleaning up unused data
+[03/02,21:23:47] Load default style [styles/DarkBlur.xml]
+[03/02,21:23:47] Load default admin panel [panels/AdminBelowChat.xml]
+[03/02,21:23:47] Load default donate panel [panels/DonateBelowCPList.xml]
+[03/02,21:23:47] Load default records panel [panels/RecordsRightBottom.xml]
+[03/02,21:23:47] Load default vote panel [panels/VoteBelowChat.xml]
+[PHP Warning] include_once(includes/jfreu.config.php): failed to open stream: No such file or directory on line 182 in file C:\TMServer\XASECO\plugins\jfreu.plugin.php
+[PHP Warning] include_once(): Failed opening 'includes/jfreu.config.php' for inclusion (include_path='.;c:\php\includes') on line 182 in file C:\TMServer\XASECO\plugins\jfreu.plugin.php
+[XASECO Warning] Could not find Jfreu vips file  !
+[XASECO Warning] Could not find Jfreu bans file  !
+[03/02,21:23:47] ************* (Dedimania) *************
+[03/02,21:23:47] * Dataserver connection on Dedimania ...
+[03/02,21:23:47] * Try connection on http://dedimania.net:8002/Dedimania ...
+[03/02,21:23:47] Webaccess (dedimania.net:8002/Dedimania.8018): send: deflate, receive: deflate
+[03/02,21:23:47] * Connection and status ok! (Dedimania.8018)
+[03/02,21:23:47] * NEWS (Dedimania, 08/05): news
+[03/02,21:23:47] ------------- (Dedimania) -------------
+[PHP Warning] include(includes/votes.config.php): failed to open stream: No such file or directory on line 51 in file C:\TMServer\XASECO\plugins\plugin.rasp_votes.php
+[PHP Warning] include(): Failed opening 'includes/votes.config.php' for inclusion (include_path='.;c:\php\includes') on line 51 in file C:\TMServer\XASECO\plugins\plugin.rasp_votes.php
+###############################################################################
+  XASECO v1.16 running on 127.0.0.1:5000
+  Name   : Oblivion Server - oblivionserver
+  Game   : TmForever Nations - Stadium - TimeAttack
+  Version: 2.11.26 / 2011-02-21
+  Authors: Florian Schnell & Assembler Maniac
+  Re-Authored: Xymph
+###############################################################################
+Begin Round
+Begin Challenge
+[03/02,21:23:48] track changed [undefined] >> [ An' The Game Will Go On...]
+[03/02,21:23:48] current record on  An' The Game Will Go On... is 0:35.52 and held by ѺѣŁİѷīøӤ
+[03/02,21:24:07] << player 250 joined the game [ob1ivion : $60FѺ$71Eѣ$92CŁ$A3Bİ$B3Aѷ$C49ī$E57ø$F66Ӥ : United States of America : 4327132 : 172.20.95.32]
+[03/02,21:27:02] >> player 250 left the game [ob1ivion : $60FѺ$71Eѣ$92CŁ$A3Bİ$B3Aѷ$C49ī$E57ø$F66Ӥ : 00:02:55]
+[03/02,21:27:57] << player 249 joined the game [ob1ivion : $60FѺ$71Eѣ$92CŁ$A3Bİ$B3Aѷ$C49ī$E57ø$F66Ӥ : United States of America : 4327132 : 172.20.95.32]
+[03/02,21:28:23] >> player 249 left the game [ob1ivion : $60FѺ$71Eѣ$92CŁ$A3Bİ$B3Aѷ$C49ī$E57ø$F66Ӥ : 00:00:26]
+[03/02,21:29:00] << player 248 joined the game [ob1ivion : $60FѺ$71Eѣ$92CŁ$A3Bİ$B3Aѷ$C49ī$E57ø$F66Ӥ : United States of America : 4327132 : 172.20.95.32]
+[03/02,21:30:32] >> player 248 left the game [ob1ivion : $60FѺ$71Eѣ$92CŁ$A3Bİ$B3Aѷ$C49ī$E57ø$F66Ӥ : 00:01:32]
+[XAseco] PHP Version is 5.4.0 on WINNT
+[XAseco] Load settings [config.xml]
+[XAseco] Load admin/ops lists [adminops.xml]
+[XAseco] Load banned IPs list [bannedips.xml]
+[XAseco] Load plugins list [plugins.xml]
+[XAseco] Load plugin [plugin.localdatabase.php]
+[XAseco] Load plugin [plugin.rounds.php]
+[XAseco] Load plugin [chat.admin.php]
+[XAseco] Load plugin [chat.help.php]
+[XAseco] Load plugin [chat.records.php]
+[XAseco] Load plugin [chat.records2.php]
+[XAseco] Load plugin [chat.recrels.php]
+[XAseco] Load plugin [chat.dedimania.php]
+[XAseco] Load plugin [chat.players.php]
+[XAseco] Load plugin [chat.players2.php]
+[XAseco] Load plugin [chat.wins.php]
+[XAseco] Load plugin [chat.laston.php]
+[XAseco] Load plugin [chat.lastwin.php]
+[XAseco] Load plugin [chat.stats.php]
+[XAseco] Load plugin [chat.server.php]
+[XAseco] Load plugin [chat.songmod.php]
+[XAseco] Load plugin [chat.me.php]
+[XAseco] Load plugin [plugin.tmxinfo.php]
+[XAseco] Load plugin [plugin.track.php]
+[XAseco] Load plugin [plugin.checkpoints.php]
+[XAseco] Load plugin [plugin.dedimania.php]
+[XAseco] Load plugin [plugin.rasp.php]
+[XAseco] Load plugin [plugin.rasp_jukebox.php]
+[XAseco] Load plugin [plugin.rasp_chat.php]
+[XAseco] Load plugin [plugin.rasp_karma.php]
+[XAseco] Load plugin [plugin.rasp_nextmap.php]
+[XAseco] Load plugin [plugin.rasp_nextrank.php]
+[XAseco] Load plugin [plugin.rasp_votes.php]
+[XAseco] Load plugin [plugin.chatlog.php]
+[XAseco] Load plugin [plugin.style.php]
+[XAseco] Load plugin [plugin.panels.php]
+[XAseco] Load plugin [plugin.uptodate.php]
+[XAseco] Load plugin [jfreu.plugin.php]
+[XAseco] Load plugin [mistral.idlekick.php]
+[03/02,21:45:12] Try to connect to TM dedicated server on 127.0.0.1:5000 timeout 180s
+[03/02,21:45:12] Try to authenticate with login 'SuperAdmin' and password 'pass1234'
+[03/02,21:45:12] Waiting for dedicated server to reach status 'Running - Play'...
+[03/02,21:45:12] Status: Running - Synchronization
+[03/02,21:45:14] Status: Running - Play
+[03/02,21:45:14] Connection established successfully !
+[03/02,21:45:14] [LocalDB] Load config file [localdatabase.xml]
+[03/02,21:45:14] [LocalDB] Try to connect to MySQL server on 'localhost' with database 'aseco'
+[03/02,21:45:16] [LocalDB] MySQL Server Version is 5.5.62
+[03/02,21:45:16] [LocalDB] Checking database structure...
+[03/02,21:45:16] [LocalDB] ...Structure OK!
+[03/02,21:45:16] [RASP] Loading config file [rasp.xml]
+[03/02,21:45:16] [RASP] Checking database structure...
+[03/02,21:45:16] [RASP] ...Structure OK!
+[03/02,21:45:16] [RASP] Cleaning up unused data
+[03/02,21:45:16] Load default style [styles/DarkBlur.xml]
+[03/02,21:45:16] Load default admin panel [panels/AdminBelowChat.xml]
+[03/02,21:45:16] Load default donate panel [panels/DonateBelowCPList.xml]
+[03/02,21:45:16] Load default records panel [panels/RecordsRightBottom.xml]
+[03/02,21:45:16] Load default vote panel [panels/VoteBelowChat.xml]
+[PHP Warning] include_once(includes/jfreu.config.php): failed to open stream: No such file or directory on line 182 in file C:\TMServer\XASECO\plugins\jfreu.plugin.php
+[PHP Warning] include_once(): Failed opening 'includes/jfreu.config.php' for inclusion (include_path='.;c:\php\includes') on line 182 in file C:\TMServer\XASECO\plugins\jfreu.plugin.php
+[XASECO Warning] Could not find Jfreu vips file  !
+[XASECO Warning] Could not find Jfreu bans file  !
+[03/02,21:45:16] ************* (Dedimania) *************
+[03/02,21:45:16] * Dataserver connection on Dedimania ...
+[03/02,21:45:16] * Try connection on http://dedimania.net:8002/Dedimania ...
+[03/02,21:45:16] Webaccess (dedimania.net:8002/Dedimania.8027): send: deflate, receive: deflate
+[03/02,21:45:16] * Connection and status ok! (Dedimania.8027)
+[03/02,21:45:16] * NEWS (Dedimania, 08/05): news
+[03/02,21:45:16] ------------- (Dedimania) -------------
+[PHP Warning] include(includes/votes.config.php): failed to open stream: No such file or directory on line 51 in file C:\TMServer\XASECO\plugins\plugin.rasp_votes.php
+[PHP Warning] include(): Failed opening 'includes/votes.config.php' for inclusion (include_path='.;c:\php\includes') on line 51 in file C:\TMServer\XASECO\plugins\plugin.rasp_votes.php
+###############################################################################
+  XASECO v1.16 running on 127.0.0.1:5000
+  Name   : Oblivion Server - oblivionserver
+  Game   : TmForever Nations - Stadium - TimeAttack
+  Version: 2.11.26 / 2011-02-21
+  Authors: Florian Schnell & Assembler Maniac
+  Re-Authored: Xymph
+###############################################################################
+Begin Round
+Begin Challenge
+[03/02,21:45:17] track changed [undefined] >> [ An' The Game Will Go On...]
+[03/02,21:45:17] current record on  An' The Game Will Go On... is 0:35.52 and held by ѺѣŁİѷīøӤ
+[XAseco] PHP Version is 5.4.0 on WINNT
+[XAseco] Load settings [config.xml]
+[XAseco] Load admin/ops lists [adminops.xml]
+[XAseco] Load banned IPs list [bannedips.xml]
+[XAseco] Load plugins list [plugins.xml]
+[XAseco] Load plugin [plugin.localdatabase.php]
+[XAseco] Load plugin [plugin.rounds.php]
+[XAseco] Load plugin [chat.admin.php]
+[XAseco] Load plugin [chat.help.php]
+[XAseco] Load plugin [chat.records.php]
+[XAseco] Load plugin [chat.records2.php]
+[XAseco] Load plugin [chat.recrels.php]
+[XAseco] Load plugin [chat.dedimania.php]
+[XAseco] Load plugin [chat.players.php]
+[XAseco] Load plugin [chat.players2.php]
+[XAseco] Load plugin [chat.wins.php]
+[XAseco] Load plugin [chat.laston.php]
+[XAseco] Load plugin [chat.lastwin.php]
+[XAseco] Load plugin [chat.stats.php]
+[XAseco] Load plugin [chat.server.php]
+[XAseco] Load plugin [chat.songmod.php]
+[XAseco] Load plugin [chat.me.php]
+[XAseco] Load plugin [plugin.tmxinfo.php]
+[XAseco] Load plugin [plugin.track.php]
+[XAseco] Load plugin [plugin.checkpoints.php]
+[XAseco] Load plugin [plugin.dedimania.php]
+[XAseco] Load plugin [plugin.rasp.php]
+[XAseco] Load plugin [plugin.rasp_jukebox.php]
+[XAseco] Load plugin [plugin.rasp_chat.php]
+[XAseco] Load plugin [plugin.rasp_karma.php]
+[XAseco] Load plugin [plugin.rasp_nextmap.php]
+[XAseco] Load plugin [plugin.rasp_nextrank.php]
+[XAseco] Load plugin [plugin.rasp_votes.php]
+[XAseco] Load plugin [plugin.chatlog.php]
+[XAseco] Load plugin [plugin.style.php]
+[XAseco] Load plugin [plugin.panels.php]
+[XAseco] Load plugin [plugin.uptodate.php]
+[XAseco] Load plugin [jfreu.plugin.php]
+[XAseco] Load plugin [mistral.idlekick.php]
+[03/02,21:48:22] Try to connect to TM dedicated server on 127.0.0.1:5000 timeout 180s
+[03/02,21:48:22] Try to authenticate with login 'SuperAdmin' and password 'pass1234'
+[03/02,21:48:22] Waiting for dedicated server to reach status 'Running - Play'...
+[03/02,21:48:22] Status: Running - Synchronization
+[03/02,21:48:24] Status: Running - Play
+[03/02,21:48:24] Connection established successfully !
+[03/02,21:48:24] [LocalDB] Load config file [localdatabase.xml]
+[03/02,21:48:24] [LocalDB] Try to connect to MySQL server on 'localhost' with database 'aseco'
+[03/02,21:48:26] [LocalDB] MySQL Server Version is 5.5.62
+[03/02,21:48:26] [LocalDB] Checking database structure...
+[03/02,21:48:26] [LocalDB] ...Structure OK!
+[03/02,21:48:26] [RASP] Loading config file [rasp.xml]
+[03/02,21:48:26] [RASP] Checking database structure...
+[03/02,21:48:26] [RASP] ...Structure OK!
+[03/02,21:48:26] [RASP] Cleaning up unused data
+[03/02,21:48:26] Load default style [styles/DarkBlur.xml]
+[03/02,21:48:26] Load default admin panel [panels/AdminBelowChat.xml]
+[03/02,21:48:26] Load default donate panel [panels/DonateBelowCPList.xml]
+[03/02,21:48:26] Load default records panel [panels/RecordsRightBottom.xml]
+[03/02,21:48:26] Load default vote panel [panels/VoteBelowChat.xml]
+[PHP Warning] include_once(../jfreu.config.php): failed to open stream: No such file or directory on line 182 in file C:\TMServer\XASECO\plugins\jfreu.plugin.php
+[PHP Warning] include_once(): Failed opening '../jfreu.config.php' for inclusion (include_path='.;c:\php\includes') on line 182 in file C:\TMServer\XASECO\plugins\jfreu.plugin.php
+[XASECO Warning] Could not find Jfreu vips file  !
+[XASECO Warning] Could not find Jfreu bans file  !
+[03/02,21:48:26] ************* (Dedimania) *************
+[03/02,21:48:26] * Dataserver connection on Dedimania ...
+[03/02,21:48:26] * Try connection on http://dedimania.net:8002/Dedimania ...
+[03/02,21:48:26] Webaccess (dedimania.net:8002/Dedimania.8013): send: deflate, receive: deflate
+[03/02,21:48:26] * Connection and status ok! (Dedimania.8013)
+[03/02,21:48:26] * NEWS (Dedimania, 08/05): news
+[03/02,21:48:26] ------------- (Dedimania) -------------
+[PHP Warning] include(includes/votes.config.php): failed to open stream: No such file or directory on line 51 in file C:\TMServer\XASECO\plugins\plugin.rasp_votes.php
+[PHP Warning] include(): Failed opening 'includes/votes.config.php' for inclusion (include_path='.;c:\php\includes') on line 51 in file C:\TMServer\XASECO\plugins\plugin.rasp_votes.php
+###############################################################################
+  XASECO v1.16 running on 127.0.0.1:5000
+  Name   : Oblivion Server - oblivionserver
+  Game   : TmForever Nations - Stadium - TimeAttack
+  Version: 2.11.26 / 2011-02-21
+  Authors: Florian Schnell & Assembler Maniac
+  Re-Authored: Xymph
+###############################################################################
+Begin Round
+Begin Challenge
+[03/02,21:48:27] track changed [undefined] >> [ An' The Game Will Go On...]
+[03/02,21:48:27] current record on  An' The Game Will Go On... is 0:35.52 and held by ѺѣŁİѷīøӤ
+[XAseco] PHP Version is 5.4.0 on WINNT
+[XAseco] Load settings [config.xml]
+[XAseco] Load admin/ops lists [adminops.xml]
+[XAseco] Load banned IPs list [bannedips.xml]
+[XAseco] Load plugins list [plugins.xml]
+[XAseco] Load plugin [plugin.localdatabase.php]
+[XAseco] Load plugin [plugin.rounds.php]
+[XAseco] Load plugin [chat.admin.php]
+[XAseco] Load plugin [chat.help.php]
+[XAseco] Load plugin [chat.records.php]
+[XAseco] Load plugin [chat.records2.php]
+[XAseco] Load plugin [chat.recrels.php]
+[XAseco] Load plugin [chat.dedimania.php]
+[XAseco] Load plugin [chat.players.php]
+[XAseco] Load plugin [chat.players2.php]
+[XAseco] Load plugin [chat.wins.php]
+[XAseco] Load plugin [chat.laston.php]
+[XAseco] Load plugin [chat.lastwin.php]
+[XAseco] Load plugin [chat.stats.php]
+[XAseco] Load plugin [chat.server.php]
+[XAseco] Load plugin [chat.songmod.php]
+[XAseco] Load plugin [chat.me.php]
+[XAseco] Load plugin [plugin.tmxinfo.php]
+[XAseco] Load plugin [plugin.track.php]
+[XAseco] Load plugin [plugin.checkpoints.php]
+[XAseco] Load plugin [plugin.dedimania.php]
+[XAseco] Load plugin [plugin.rasp.php]
+[XAseco] Load plugin [plugin.rasp_jukebox.php]
+[XAseco] Load plugin [plugin.rasp_chat.php]
+[XAseco] Load plugin [plugin.rasp_karma.php]
+[XAseco] Load plugin [plugin.rasp_nextmap.php]
+[XAseco] Load plugin [plugin.rasp_nextrank.php]
+[XAseco] Load plugin [plugin.rasp_votes.php]
+[XAseco] Load plugin [plugin.chatlog.php]
+[XAseco] Load plugin [plugin.style.php]
+[XAseco] Load plugin [plugin.panels.php]
+[XAseco] Load plugin [plugin.uptodate.php]
+[XAseco] Load plugin [jfreu.plugin.php]
+[XAseco] Load plugin [mistral.idlekick.php]
+[03/02,21:55:20] Try to connect to TM dedicated server on 127.0.0.1:5000 timeout 180s
+[03/02,21:55:20] Try to authenticate with login 'SuperAdmin' and password 'pass1234'
+[03/02,21:55:20] Connection established successfully !
+[03/02,21:55:20] [LocalDB] Load config file [localdatabase.xml]
+[03/02,21:55:20] [LocalDB] Try to connect to MySQL server on 'localhost' with database 'aseco'
+[03/02,21:55:22] [LocalDB] MySQL Server Version is 5.5.62
+[03/02,21:55:22] [LocalDB] Checking database structure...
+[03/02,21:55:22] [LocalDB] ...Structure OK!
+[03/02,21:55:22] [RASP] Loading config file [rasp.xml]
+[03/02,21:55:22] [RASP] Checking database structure...
+[03/02,21:55:22] [RASP] ...Structure OK!
+[03/02,21:55:22] [RASP] Cleaning up unused data
+[03/02,21:55:22] Load default style [styles/DarkBlur.xml]
+[03/02,21:55:22] Load default admin panel [panels/AdminBelowChat.xml]
+[03/02,21:55:22] Load default donate panel [panels/DonateBelowCPList.xml]
+[03/02,21:55:22] Load default records panel [panels/RecordsRightBottom.xml]
+[03/02,21:55:22] Load default vote panel [panels/VoteBelowChat.xml]
+[03/02,21:55:22] ************* (Dedimania) *************
+[03/02,21:55:22] * Dataserver connection on Dedimania ...
+[03/02,21:55:22] * Try connection on http://dedimania.net:8002/Dedimania ...
+[03/02,21:55:22] Webaccess (dedimania.net:8002/Dedimania.8020): send: deflate, receive: deflate
+[03/02,21:55:22] * Connection and status ok! (Dedimania.8020)
+[03/02,21:55:22] * NEWS (Dedimania, 08/05): news
+[03/02,21:55:22] ------------- (Dedimania) -------------
+[PHP Warning] include(includes/votes.config.php): failed to open stream: No such file or directory on line 51 in file C:\TMServer\XASECO\plugins\plugin.rasp_votes.php
+[PHP Warning] include(): Failed opening 'includes/votes.config.php' for inclusion (include_path='.;c:\php\includes') on line 51 in file C:\TMServer\XASECO\plugins\plugin.rasp_votes.php
+###############################################################################
+  XASECO v1.16 running on 127.0.0.1:5000
+  Name   : Oblivion Server - oblivionserver
+  Game   : TmForever Nations - Stadium - TimeAttack
+  Version: 2.11.26 / 2011-02-21
+  Authors: Florian Schnell & Assembler Maniac
+  Re-Authored: Xymph
+###############################################################################
+Begin Challenge
+[03/02,21:55:23] track changed [undefined] >> [ An' The Game Will Go On...]
+[03/02,21:55:23] current record on  An' The Game Will Go On... is 0:35.52 and held by ѺѣŁİѷīøӤ
+[XAseco] PHP Version is 5.4.0 on WINNT
+[XAseco] Load settings [config.xml]
+[XAseco] Load admin/ops lists [adminops.xml]
+[XAseco] Load banned IPs list [bannedips.xml]
+[XAseco] Load plugins list [plugins.xml]
+[XAseco] Load plugin [plugin.localdatabase.php]
+[XAseco] Load plugin [plugin.rounds.php]
+[XAseco] Load plugin [chat.admin.php]
+[XAseco] Load plugin [chat.help.php]
+[XAseco] Load plugin [chat.records.php]
+[XAseco] Load plugin [chat.records2.php]
+[XAseco] Load plugin [chat.recrels.php]
+[XAseco] Load plugin [chat.dedimania.php]
+[XAseco] Load plugin [chat.players.php]
+[XAseco] Load plugin [chat.players2.php]
+[XAseco] Load plugin [chat.wins.php]
+[XAseco] Load plugin [chat.laston.php]
+[XAseco] Load plugin [chat.lastwin.php]
+[XAseco] Load plugin [chat.stats.php]
+[XAseco] Load plugin [chat.server.php]
+[XAseco] Load plugin [chat.songmod.php]
+[XAseco] Load plugin [chat.me.php]
+[XAseco] Load plugin [plugin.tmxinfo.php]
+[XAseco] Load plugin [plugin.track.php]
+[XAseco] Load plugin [plugin.checkpoints.php]
+[XAseco] Load plugin [plugin.dedimania.php]
+[XAseco] Load plugin [plugin.rasp.php]
+[XAseco] Load plugin [plugin.rasp_jukebox.php]
+[XAseco] Load plugin [plugin.rasp_chat.php]
+[XAseco] Load plugin [plugin.rasp_karma.php]
+[XAseco] Load plugin [plugin.rasp_nextmap.php]
+[XAseco] Load plugin [plugin.rasp_nextrank.php]
+[XAseco] Load plugin [plugin.rasp_votes.php]
+[XAseco] Load plugin [plugin.chatlog.php]
+[XAseco] Load plugin [plugin.style.php]
+[XAseco] Load plugin [plugin.panels.php]
+[XAseco] Load plugin [plugin.uptodate.php]
+[XAseco] Load plugin [jfreu.plugin.php]
+[XAseco] Load plugin [mistral.idlekick.php]
+[03/02,21:57:42] Try to connect to TM dedicated server on 127.0.0.1:5000 timeout 180s
+[03/02,21:57:42] Try to authenticate with login 'SuperAdmin' and password 'pass1234'
+[03/02,21:57:42] Connection established successfully !
+[03/02,21:57:42] [LocalDB] Load config file [localdatabase.xml]
+[03/02,21:57:42] [LocalDB] Try to connect to MySQL server on 'localhost' with database 'aseco'
+[03/02,21:57:44] [LocalDB] MySQL Server Version is 5.5.62
+[03/02,21:57:44] [LocalDB] Checking database structure...
+[03/02,21:57:44] [LocalDB] ...Structure OK!
+[03/02,21:57:44] [RASP] Loading config file [rasp.xml]
+[03/02,21:57:44] [RASP] Checking database structure...
+[03/02,21:57:44] [RASP] ...Structure OK!
+[03/02,21:57:44] [RASP] Cleaning up unused data
+[03/02,21:57:44] Load default style [styles/DarkBlur.xml]
+[03/02,21:57:44] Load default admin panel [panels/AdminBelowChat.xml]
+[03/02,21:57:44] Load default donate panel [panels/DonateBelowCPList.xml]
+[03/02,21:57:44] Load default records panel [panels/RecordsRightBottom.xml]
+[03/02,21:57:44] Load default vote panel [panels/VoteBelowChat.xml]
+[03/02,21:57:44] ************* (Dedimania) *************
+[03/02,21:57:44] * Dataserver connection on Dedimania ...
+[03/02,21:57:44] * Try connection on http://dedimania.net:8002/Dedimania ...
+[03/02,21:57:45] Webaccess (dedimania.net:8002/Dedimania.8013): send: deflate, receive: deflate
+[03/02,21:57:45] * Connection and status ok! (Dedimania.8013)
+[03/02,21:57:45] * NEWS (Dedimania, 08/05): news
+[03/02,21:57:45] ------------- (Dedimania) -------------
+###############################################################################
+  XASECO v1.16 running on 127.0.0.1:5000
+  Name   : Oblivion Server - oblivionserver
+  Game   : TmForever Nations - Stadium - TimeAttack
+  Version: 2.11.26 / 2011-02-21
+  Authors: Florian Schnell & Assembler Maniac
+  Re-Authored: Xymph
+###############################################################################
+Begin Challenge
+[03/02,21:57:46] track changed [undefined] >> [ An' The Game Will Go On...]
+[03/02,21:57:46] current record on  An' The Game Will Go On... is 0:35.52 and held by ѺѣŁİѷīøӤ
+[XAseco] PHP Version is 5.4.0 on WINNT
+[XAseco] Load settings [config.xml]
+[XAseco] Load admin/ops lists [adminops.xml]
+[XAseco] Load banned IPs list [bannedips.xml]
+[XAseco] Load plugins list [plugins.xml]
+[XAseco] Load plugin [plugin.localdatabase.php]
+[XAseco] Load plugin [plugin.rounds.php]
+[XAseco] Load plugin [chat.admin.php]
+[XAseco] Load plugin [chat.help.php]
+[XAseco] Load plugin [chat.records.php]
+[XAseco] Load plugin [chat.records2.php]
+[XAseco] Load plugin [chat.recrels.php]
+[XAseco] Load plugin [chat.dedimania.php]
+[XAseco] Load plugin [chat.players.php]
+[XAseco] Load plugin [chat.players2.php]
+[XAseco] Load plugin [chat.wins.php]
+[XAseco] Load plugin [chat.laston.php]
+[XAseco] Load plugin [chat.lastwin.php]
+[XAseco] Load plugin [chat.stats.php]
+[XAseco] Load plugin [chat.server.php]
+[XAseco] Load plugin [chat.songmod.php]
+[XAseco] Load plugin [chat.me.php]
+[XAseco] Load plugin [plugin.tmxinfo.php]
+[XAseco] Load plugin [plugin.track.php]
+[XAseco] Load plugin [plugin.checkpoints.php]
+[XAseco] Load plugin [plugin.dedimania.php]
+[XAseco] Load plugin [plugin.rasp.php]
+[XAseco] Load plugin [plugin.rasp_jukebox.php]
+[XAseco] Load plugin [plugin.rasp_chat.php]
+[XAseco] Load plugin [plugin.rasp_karma.php]
+[XAseco] Load plugin [plugin.rasp_nextmap.php]
+[XAseco] Load plugin [plugin.rasp_nextrank.php]
+[XAseco] Load plugin [plugin.rasp_votes.php]
+[XAseco] Load plugin [plugin.chatlog.php]
+[XAseco] Load plugin [plugin.style.php]
+[XAseco] Load plugin [plugin.panels.php]
+[XAseco] Load plugin [plugin.uptodate.php]
+[XAseco] Load plugin [jfreu.plugin.php]
+[XAseco] Load plugin [mistral.idlekick.php]
+[XAseco] Load plugin [plugin.greeting_dude.php]
+[03/03,03:05:31] Try to connect to TM dedicated server on 127.0.0.1:5000 timeout 180s
+[03/03,03:05:31] Try to authenticate with login 'SuperAdmin' and password 'pass1234'
+[XASECO Warning] [-1000] Authenticate - Password incorrect.
+[XASECO Fatal Error] Connection could not be established ! on line 714 in file C:\TMServer\XASECO\aseco.php
+[XAseco] PHP Version is 5.4.0 on WINNT
+[XAseco] Load settings [config.xml]
+[XAseco] Load admin/ops lists [adminops.xml]
+[XAseco] Load banned IPs list [bannedips.xml]
+[XAseco] Load plugins list [plugins.xml]
+[XAseco] Load plugin [plugin.localdatabase.php]
+[XAseco] Load plugin [plugin.rounds.php]
+[XAseco] Load plugin [chat.admin.php]
+[XAseco] Load plugin [chat.help.php]
+[XAseco] Load plugin [chat.records.php]
+[XAseco] Load plugin [chat.records2.php]
+[XAseco] Load plugin [chat.recrels.php]
+[XAseco] Load plugin [chat.dedimania.php]
+[XAseco] Load plugin [chat.players.php]
+[XAseco] Load plugin [chat.players2.php]
+[XAseco] Load plugin [chat.wins.php]
+[XAseco] Load plugin [chat.laston.php]
+[XAseco] Load plugin [chat.lastwin.php]
+[XAseco] Load plugin [chat.stats.php]
+[XAseco] Load plugin [chat.server.php]
+[XAseco] Load plugin [chat.songmod.php]
+[XAseco] Load plugin [chat.me.php]
+[XAseco] Load plugin [plugin.tmxinfo.php]
+[XAseco] Load plugin [plugin.track.php]
+[XAseco] Load plugin [plugin.checkpoints.php]
+[XAseco] Load plugin [plugin.dedimania.php]
+[XAseco] Load plugin [plugin.rasp.php]
+[XAseco] Load plugin [plugin.rasp_jukebox.php]
+[XAseco] Load plugin [plugin.rasp_chat.php]
+[XAseco] Load plugin [plugin.rasp_karma.php]
+[XAseco] Load plugin [plugin.rasp_nextmap.php]
+[XAseco] Load plugin [plugin.rasp_nextrank.php]
+[XAseco] Load plugin [plugin.rasp_votes.php]
+[XAseco] Load plugin [plugin.chatlog.php]
+[XAseco] Load plugin [plugin.style.php]
+[XAseco] Load plugin [plugin.panels.php]
+[XAseco] Load plugin [plugin.uptodate.php]
+[XAseco] Load plugin [jfreu.plugin.php]
+[XAseco] Load plugin [mistral.idlekick.php]
+[XAseco] Load plugin [plugin.greeting_dude.php]
+[03/03,03:06:00] Try to connect to TM dedicated server on 127.0.0.1:5000 timeout 180s
+[03/03,03:06:00] Try to authenticate with login 'SuperAdmin' and password 'pass1234'
+[03/03,03:06:00] Waiting for dedicated server to reach status 'Running - Play'...
+[03/03,03:06:00] Status: Running - Synchronization
+[03/03,03:06:02] Status: Running - Play
+[03/03,03:06:02] Connection established successfully !
+[03/03,03:06:02] [LocalDB] Load config file [localdatabase.xml]
+[03/03,03:06:02] [LocalDB] Try to connect to MySQL server on 'localhost' with database 'aseco'
+[03/03,03:06:04] [LocalDB] MySQL Server Version is 5.5.62
+[03/03,03:06:04] [LocalDB] Checking database structure...
+[03/03,03:06:04] [LocalDB] ...Structure OK!
+[03/03,03:06:04] [RASP] Loading config file [rasp.xml]
+[03/03,03:06:04] [RASP] Checking database structure...
+[03/03,03:06:04] [RASP] ...Structure OK!
+[03/03,03:06:04] [RASP] Cleaning up unused data
+[03/03,03:06:04] Load default style [styles/DarkBlur.xml]
+[03/03,03:06:04] Load default admin panel [panels/AdminBelowChat.xml]
+[03/03,03:06:04] Load default donate panel [panels/DonateBelowCPList.xml]
+[03/03,03:06:04] Load default records panel [panels/RecordsRightBottom.xml]
+[03/03,03:06:04] Load default vote panel [panels/VoteBelowChat.xml]
+[03/03,03:06:04] ************* (Dedimania) *************
+[03/03,03:06:04] * Dataserver connection on Dedimania ...
+[03/03,03:06:04] * Try connection on http://dedimania.net:8002/Dedimania ...
+[03/03,03:06:04] Webaccess (dedimania.net:8002/Dedimania.8003): send: deflate, receive: deflate
+[03/03,03:06:04] * Connection and status ok! (Dedimania.8003)
+[03/03,03:06:04] * NEWS (Dedimania, 08/05): news
+[03/03,03:06:04] ------------- (Dedimania) -------------
+###############################################################################
+  XASECO v1.16 running on 127.0.0.1:5000
+  Name   : Oblivion Server - oblivionserver
+  Game   : TmForever Nations - Stadium - TimeAttack
+  Version: 2.11.26 / 2011-02-21
+  Authors: Florian Schnell & Assembler Maniac
+  Re-Authored: Xymph
+###############################################################################
+Begin Round
+Begin Challenge
+[03/03,03:06:06] track changed [undefined] >> [ An' The Game Will Go On...]
+[03/03,03:06:06] current record on  An' The Game Will Go On... is 0:35.52 and held by ѺѣŁİѷīøӤ
+[03/03,03:06:37] << player 250 joined the game [ob1ivion : $60FѺ$71Eѣ$92CŁ$A3Bİ$B3Aѷ$C49ī$E57ø$F66Ӥ : United States of America : 4327132 : 172.20.95.32]
+[03/03,03:09:55] Webaccess (dedimania.net:8002/Dedimania.8003): Request timeout, in _receive (197 > 40s)
+dedimania_playerconnect_cb - error(s): Webaccess (dedimania.net:8002/Dedimania.8003): Request timeout, in _receive (197 > 40s)
+[03/03,03:10:49] [LocalDB] player ob1ivion finished with 35440 and took the 1. LR place!
+[03/03,03:14:19] player ob1ivion used chat command "/helpdedi "
+[03/03,03:14:37] player ob1ivion used chat command "/help "
+[03/03,03:14:43] player ob1ivion used chat command "/votepanel "
+[03/03,03:14:49] player ob1ivion used chat command "/votepanel help"
+[03/03,03:15:02] player ob1ivion used chat command "/votepanel list"
+[03/03,03:15:06] player ob1ivion clicked command "/votepanel TopCenter"
+[03/03,03:15:08] player ob1ivion clicked command "/y "
+[03/03,03:15:16] player ob1ivion used chat command "/votepanel "
+[03/03,03:15:25] player ob1ivion used chat command "/votepanel TopCenter"
+[03/03,03:15:40] player ob1ivion used chat command "/votepanel help"
+[03/03,03:15:46] player ob1ivion used chat command "/help "
+[03/03,03:16:01] player ob1ivion used chat command "/nextmap "
+[03/03,03:16:07] player ob1ivion used chat command "/nextmap "
+[03/03,03:16:13] player ob1ivion used chat command "/skip "
+[03/03,03:16:40] player ob1ivion used chat command "/helpvote "
+End Round
+End Challenge
+[03/03,03:16:48] [RASP] Calculating ranks...
+[03/03,03:16:48] [RASP] ...Done!
+Begin Challenge
+[03/03,03:17:03] track changed [ An' The Game Will Go On...] >> [A Snake on Fire]
+[03/03,03:17:03] current record on A Snake on Fire is 0:43.90 and held by ѺѣŁİѷīøӤ
+Begin Round
+[03/03,03:18:20] [LocalDB] player ob1ivion finished with 43500 and took the 1. LR place!
+[03/03,03:19:21] [LocalDB] player ob1ivion finished with 42360 and took the 1. LR place!
+[03/03,03:20:44] >> player 250 left the game [ob1ivion : $60FѺ$71Eѣ$92CŁ$A3Bİ$B3Aѷ$C49ī$E57ø$F66Ӥ : 00:14:07]

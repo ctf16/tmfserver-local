@@ -1,0 +1,33 @@
+<playlist>
+
+	<gameinfos>
+		<game_mode>1</game_mode>
+		<timeattack_limit>1800000</timeattack_limit>
+		<timeattack_synchstartperiod>0</timeattack_synchstartperiod>
+		<finishtimeout>1</finishtimeout>
+		<allwarmupduration>0</allwarmupduration>
+	</gameinfos>
+
+
+
+	<challenge>
+		<file>C:\TMServer\GameData\Tracks\Challenges\Downloaded\_An' The Game Will Go On....Challenge.Gbx</file>
+	</challenge>
+
+	<challenge>
+		<file>C:\TMServer\GameData\Tracks\Challenges\Downloaded\A Snake on Fire.Challenge.Gbx</file>
+	</challenge>
+
+	<challenge>
+		<file>C:\TMServer\GameData\Tracks\Challenges\Downloaded\A Christmas Carol.Challenge.Gbx</file>
+	</challenge>
+	
+	<challenge>
+		<file>C:\TMServer\GameData\Tracks\Challenges\Downloaded\Night Breeze.Challenge.Gbx</file>
+	</challenge>
+
+	<challenge>
+		<file>C:\TMServer\GameData\Tracks\Challenges\Downloaded\Numb3rs..Challenge.Gbx</file>
+	</challenge>
+
+</playlist>
