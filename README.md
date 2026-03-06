@@ -1,6 +1,6 @@
-# Oblivion's TrackMania Forever Server
+# Oblivion TrackMania Forever Server
 
-A simple TMF server that runs locally on Windows 11.
+A simple TMF server that runs locally on Windows 11. Comes preloaded with QoL plugins, Dedimania and 5 maps in a time attack playlist. 
 
 ## DISCLAIMERS
 
