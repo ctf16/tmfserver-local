@@ -10,6 +10,12 @@ XASECO - Copyright © 2007-2026 Frans P. de Vries
 TrackmaniaServer.exe - Copyright © Ubisoft Nadeo
 Plugins - Copyright © [Respective Authors](https://plugins.xaseco.org/browse.php)
 
+## Prerequisites
+
+You MUST have 2 TMNF+ accounts. One runs the server, and the other plays the game.
+
+The XASECO server controller relies on MySQL (v9+ preferred) to be running. 
+
 ## Quick Start
 
 I can't, in good faith, recommend **ANYONE** to run this server, even if you know what you're doing.
