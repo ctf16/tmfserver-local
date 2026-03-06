@@ -5,10 +5,9 @@ A simple TMF server that runs locally on Windows 11. Comes preloaded with QoL pl
 ## DISCLAIMERS
 
 All rights are reserved to the original authors of the software.
-
-XASECO - Copyright © 2007-2026 Frans P. de Vries
-TrackmaniaServer.exe - Copyright © Ubisoft Nadeo
-Plugins - Copyright © [Respective Authors](https://plugins.xaseco.org/browse.php)
+- XASECO - Copyright © 2007-2026 Frans P. de Vries
+- TrackmaniaServer.exe - Copyright © Ubisoft Nadeo
+- Plugins - Copyright © [Respective Authors](https://plugins.xaseco.org/browse.php)
 
 ## Prerequisites
 
