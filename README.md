@@ -41,6 +41,10 @@ The format for the server config is as follows:
 </playlist>   
 ```
 
+### Starting the server
+
+I have included a handy startup script that runs the server with the specified custom match settings. If you want to run this server on your own machine, you will have to edit [`start_hunt_server.bat`](/TMServer/start_hunt_server.bat) to point to the path where `TMServer` is located. Additionally, if you created a custom server ruleset, you must edit the path for the `/game_settings=` parameter on line 13. 
+
 Important notes:
 - You need 2 TMNF+ accounts: 1 to run the server, and 1 to play on.
 - You need a TM validation key to run the server
